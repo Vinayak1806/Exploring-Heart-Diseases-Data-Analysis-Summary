@@ -1,0 +1,1001 @@
+Country,Age,Gender,Height (cm),Weight (kg),Diet,Chest_pain,Hypertension,Exang(exercise induced angina),Impluse,Sugar,Cholesterol,BMI,Heart Rate,Smoking or Alcohol,Disease,Age Group
+USA,52,Male,162.77,90.24,Unhealthy,0,123,0,72,High,High,34.06,94,1,Positive,50-59
+India,66,Male,163.04,52.3,Unhealthy,1,135,1,89,Normal,High,19.68,83,1,Positive,60-69
+Indonesia,59,Male,153.46,90.4,Healthy,0,157,1,100,High,Normal,38.39,92,0,Negative,50-59
+Russia,79,Female,197.99,58.89,Healthy,1,167,1,74,High,Normal,15.02,75,0,Negative,70-79
+USA,62,Male,173.91,75.73,Unhealthy,0,167,1,93,High,Borderline high,25.04,67,0,Negative,60-69
+Brazil,31,Male,194.79,90.41,Unhealthy,1,105,1,109,Normal,High,23.83,88,1,Positive,30-39
+Uzbekistan,63,Female,166.11,62.69,Healthy,0,160,0,102,Normal,High,22.72,82,0,Negative,60-69
+USA,55,Female,156.26,62.29,Healthy,0,108,1,77,Normal,Normal,25.51,90,0,Negative,50-59
+Indonesia,67,Male,173.72,70.14,Unhealthy,0,91,1,93,Normal,High,23.24,99,1,Positive,60-69
+Russia,23,Female,155.7,94.73,Healthy,1,99,1,89,High,Borderline high,39.08,73,0,Negative,20-29
+India,24,Male,174.3,50.02,Unhealthy,1,139,0,85,High,Borderline high,16.47,89,0,Negative,20-29
+Indonesia,75,Male,196.01,95.07,Unhealthy,1,170,0,81,High,High,24.74,98,1,Positive,70-79
+Indonesia,56,Male,176.04,57.69,Healthy,0,101,0,82,Normal,Normal,18.62,86,0,Negative,50-59
+Uzbekistan,27,Male,180.82,99.5,Unhealthy,1,159,0,108,Normal,High,30.43,75,0,Positive,20-29
+China,61,Female,157.83,97.74,Healthy,0,111,0,94,Normal,Borderline high,39.24,65,0,Negative,60-69
+Russia,68,Male,152.19,74.73,Unhealthy,1,121,0,101,High,Normal,32.27,92,0,Negative,60-69
+Azerbaijan,47,Female,155.54,75.64,Unhealthy,1,173,0,93,Normal,High,31.26,77,0,Positive,40-49
+Indonesia,50,Female,179.93,74.08,Healthy,1,90,1,78,Normal,Normal,22.88,75,0,Negative,50-59
+China,77,Female,154.75,81.77,Unhealthy,1,143,1,109,High,Normal,34.15,71,0,Negative,70-79
+Azerbaijan,28,Female,168.8,54.54,Healthy,0,147,0,92,High,Borderline high,19.14,79,0,Negative,20-29
+Russia,73,Male,177.5,51.63,Healthy,1,159,1,82,Normal,Normal,16.39,99,0,Negative,70-79
+Tajikistan,70,Female,169.43,52.89,Unhealthy,1,172,1,101,High,High,18.42,88,0,Positive,70-79
+Brazil,48,Male,158.18,72.22,Healthy,0,107,0,84,Normal,Normal,28.86,89,0,Negative,40-49
+China,33,Female,163.69,63.78,Unhealthy,0,95,1,105,High,Normal,23.8,85,0,Negative,30-39
+Bangladesh,59,Female,196.42,81.1,Healthy,1,134,1,74,High,High,21.02,81,0,Negative,50-59
+Tajikistan,60,Male,183.8,99.62,Healthy,1,112,0,91,High,Borderline high,29.49,92,0,Negative,60-69
+Brazil,41,Male,174.8,69.32,Healthy,0,112,1,85,Normal,Borderline high,22.69,98,0,Negative,40-49
+Uzbekistan,30,Male,150.64,78.69,Unhealthy,0,115,0,79,Normal,High,34.68,88,1,Positive,30-39
+USA,42,Female,199.62,70.78,Unhealthy,0,166,0,93,Normal,High,17.76,81,0,Positive,40-49
+India,20,Female,183.57,92.36,Healthy,1,96,1,87,High,Borderline high,27.41,72,0,Positive,20-29
+Bangladesh,65,Male,165.85,95.11,Unhealthy,1,168,1,87,High,Normal,34.58,68,0,Negative,60-69
+Uzbekistan,56,Male,193.96,93.87,Unhealthy,1,133,1,76,High,High,24.95,83,0,Positive,50-59
+Russia,40,Male,162.92,98.72,Healthy,0,116,0,73,High,Normal,37.19,74,0,Negative,40-49
+Uzbekistan,45,Male,177.2,51.38,Unhealthy,0,115,0,95,Normal,High,16.36,95,1,Positive,40-49
+USA,65,Female,181.8,91.99,Unhealthy,0,168,0,74,Normal,Borderline high,27.83,72,0,Negative,60-69
+Russia,55,Male,161.05,87.59,Healthy,1,125,1,85,Normal,Normal,33.77,86,0,Positive,50-59
+Bangladesh,73,Male,198.92,61.43,Healthy,0,144,1,104,High,Normal,15.53,96,0,Negative,70-79
+USA,42,Male,187.41,97.82,Healthy,1,153,0,95,High,High,27.85,66,0,Negative,40-49
+Azerbaijan,76,Male,177.89,57.41,Unhealthy,0,146,1,87,Normal,Normal,18.14,67,0,Negative,70-79
+India,20,Female,159.03,83.98,Unhealthy,1,158,1,98,Normal,High,33.21,96,0,Negative,20-29
+Bangladesh,73,Male,152.69,61.24,Healthy,1,150,0,92,Normal,Borderline high,26.27,73,0,Positive,70-79
+Azerbaijan,74,Female,166,71.57,Healthy,0,91,0,83,High,Normal,25.97,71,0,Positive,70-79
+Brazil,70,Male,187.66,85.96,Unhealthy,1,144,1,84,High,High,24.41,95,0,Negative,70-79
+Bangladesh,59,Male,163.47,78.17,Unhealthy,0,169,0,102,Normal,Normal,29.25,99,0,Negative,50-59
+Brazil,34,Female,176.98,71.38,Unhealthy,1,176,1,94,Normal,High,22.79,76,0,Negative,30-39
+Russia,40,Male,186.4,66.32,Unhealthy,0,127,0,90,High,High,19.09,99,0,Positive,40-49
+Azerbaijan,66,Female,155.4,91.98,Healthy,0,169,0,86,Normal,High,38.09,88,0,Negative,60-69
+India,28,Female,184.26,57.19,Unhealthy,1,167,0,92,Normal,Borderline high,16.84,86,0,Negative,20-29
+USA,72,Male,154.59,71.51,Unhealthy,0,118,1,86,High,Normal,29.92,60,0,Positive,70-79
+Indonesia,28,Female,198.26,95.19,Unhealthy,1,115,1,83,High,Borderline high,24.22,93,0,Negative,20-29
+Uzbekistan,29,Female,174.42,92.29,Unhealthy,0,124,0,98,High,High,30.34,63,0,Negative,20-29
+Tajikistan,71,Female,157.53,70.05,Healthy,0,168,0,89,Normal,High,28.23,83,0,Positive,70-79
+India,76,Female,167.12,88.16,Healthy,0,156,0,99,High,Borderline high,31.56,80,0,Negative,70-79
+Azerbaijan,72,Female,170.67,91.16,Unhealthy,0,176,1,88,High,Borderline high,31.3,92,0,Negative,70-79
+Indonesia,45,Female,187.91,94.44,Unhealthy,1,118,0,108,High,Normal,26.75,66,0,Positive,40-49
+India,60,Female,187.17,77.23,Healthy,0,123,0,82,High,High,22.04,60,0,Negative,60-69
+Azerbaijan,54,Female,180.6,60.22,Healthy,0,130,0,87,High,Borderline high,18.46,62,0,Positive,50-59
+China,71,Male,155.3,62.77,Unhealthy,1,130,0,92,Normal,High,26.03,74,1,Negative,70-79
+China,44,Male,157.58,64.78,Unhealthy,1,112,1,102,High,High,26.09,90,0,Negative,40-49
+Brazil,45,Female,154.69,79.69,Healthy,1,160,1,108,High,Normal,33.3,75,0,Negative,40-49
+India,30,Male,178.86,51.64,Healthy,1,92,0,109,Normal,Normal,16.14,69,0,Negative,30-39
+China,57,Female,193.86,81.8,Healthy,1,147,1,87,High,Normal,21.77,88,0,Negative,50-59
+Azerbaijan,21,Female,171.69,68.22,Healthy,1,121,1,78,Normal,Normal,23.14,65,0,Negative,20-29
+Brazil,26,Male,158.04,64.76,Healthy,0,120,1,102,Normal,High,25.93,88,0,Negative,20-29
+Azerbaijan,37,Female,177.9,93.97,Healthy,1,171,0,101,High,Borderline high,29.69,76,0,Negative,30-39
+Brazil,46,Female,190.59,73,Unhealthy,0,132,1,86,Normal,Borderline high,20.1,81,0,Positive,40-49
+India,53,Female,187.09,54.75,Healthy,1,96,1,88,High,Normal,15.64,83,0,Positive,50-59
+Indonesia,46,Female,194.07,91.34,Healthy,0,90,1,96,Normal,High,24.25,76,0,Negative,40-49
+USA,36,Male,163.9,52.38,Healthy,0,150,0,75,Normal,High,19.5,80,0,Positive,30-39
+Bangladesh,62,Female,159.7,86.34,Healthy,0,103,0,104,High,Normal,33.85,70,0,Negative,60-69
+Indonesia,78,Female,193.99,88.7,Unhealthy,1,141,1,106,Normal,High,23.57,66,0,Positive,70-79
+Russia,63,Female,182.88,67.63,Unhealthy,1,95,1,103,Normal,Normal,20.22,98,0,Positive,60-69
+Azerbaijan,78,Male,165.55,91.24,Healthy,1,99,0,89,High,Borderline high,33.29,64,0,Negative,70-79
+Russia,70,Female,187.12,75.78,Unhealthy,1,160,0,94,High,Borderline high,21.64,80,0,Positive,70-79
+Indonesia,73,Male,190.76,73.16,Unhealthy,0,179,1,73,Normal,Normal,20.11,77,0,Negative,70-79
+Brazil,43,Male,180.75,52.27,Unhealthy,1,119,1,79,High,Borderline high,16,94,0,Positive,40-49
+Bangladesh,44,Female,184.39,64.5,Unhealthy,0,110,0,79,Normal,Borderline high,18.97,79,0,Positive,40-49
+Bangladesh,26,Female,168.76,96.55,Unhealthy,0,149,0,93,Normal,Normal,33.9,74,0,Negative,20-29
+Tajikistan,71,Male,176.93,69.59,Unhealthy,1,170,1,90,High,Borderline high,22.23,64,0,Negative,70-79
+Bangladesh,25,Female,176.21,77.34,Healthy,1,163,0,80,High,High,24.91,72,0,Negative,20-29
+USA,72,Male,192.4,76.6,Healthy,1,152,1,96,Normal,Borderline high,20.69,71,0,Negative,70-79
+Bangladesh,43,Male,192,79.52,Healthy,0,131,1,85,High,Normal,21.57,80,0,Negative,40-49
+Indonesia,52,Female,191.63,53.07,Healthy,1,140,1,95,High,High,14.45,96,0,Negative,50-59
+Tajikistan,68,Female,150.55,68.11,Healthy,0,153,0,99,Normal,High,30.05,65,0,Negative,60-69
+Indonesia,48,Male,187.48,86.16,Unhealthy,1,165,1,85,Normal,Borderline high,24.51,66,1,Positive,40-49
+Indonesia,62,Male,187.93,60.03,Healthy,0,145,1,76,Normal,High,17,85,1,Negative,60-69
+Uzbekistan,41,Male,183.92,60.18,Healthy,1,169,0,85,Normal,Normal,17.79,67,0,Negative,40-49
+Tajikistan,45,Male,187.81,50.5,Unhealthy,1,130,0,104,Normal,High,14.32,68,0,Positive,40-49
+Indonesia,47,Female,192.1,71.87,Unhealthy,0,121,1,85,Normal,Borderline high,19.48,86,0,Positive,40-49
+Uzbekistan,69,Female,173.52,94.14,Healthy,1,104,1,109,High,Borderline high,31.27,63,0,Negative,60-69
+Uzbekistan,40,Female,175.1,52.6,Unhealthy,1,151,0,81,Normal,High,17.15,80,0,Positive,40-49
+Tajikistan,68,Female,156.24,59.56,Unhealthy,1,116,0,104,High,Normal,24.4,90,0,Negative,60-69
+Russia,26,Female,169.27,65.5,Unhealthy,1,117,0,90,High,Normal,22.86,80,0,Negative,20-29
+Brazil,36,Male,182.17,86.59,Unhealthy,1,170,1,105,Normal,Borderline high,26.09,99,1,Positive,30-39
+USA,39,Female,189.02,82.03,Healthy,1,153,1,86,High,Borderline high,22.96,84,0,Negative,30-39
+Brazil,60,Female,160.86,70.8,Unhealthy,1,148,1,101,Normal,Normal,27.36,98,0,Negative,60-69
+Bangladesh,68,Female,156.89,87.95,Healthy,0,147,0,75,High,High,35.73,74,0,Negative,60-69
+USA,39,Female,183.15,80.48,Healthy,0,91,1,93,Normal,High,23.99,94,0,Negative,30-39
+Bangladesh,73,Female,150.09,94.8,Unhealthy,1,125,0,96,Normal,High,42.08,96,0,Negative,70-79
+Indonesia,41,Male,158.92,90.9,Unhealthy,1,160,1,89,Normal,High,35.99,87,0,Negative,40-49
+Azerbaijan,47,Male,151.45,62.64,Unhealthy,1,102,0,94,Normal,Normal,27.31,73,0,Negative,40-49
+Tajikistan,59,Male,158.34,63.57,Healthy,0,104,1,71,High,Borderline high,25.35,63,1,Positive,50-59
+USA,68,Female,159.07,56.27,Unhealthy,0,178,1,78,High,Borderline high,22.24,79,0,Positive,60-69
+USA,26,Male,169.38,66.85,Unhealthy,1,176,0,97,Normal,High,23.3,93,0,Negative,20-29
+Indonesia,20,Male,170.12,99.98,Unhealthy,0,149,0,107,High,Normal,34.55,71,0,Negative,20-29
+Russia,51,Female,193.71,70.29,Unhealthy,1,111,1,72,High,Normal,18.73,92,0,Negative,50-59
+Uzbekistan,32,Female,175.51,61.02,Unhealthy,1,152,0,89,Normal,High,19.81,83,0,Positive,30-39
+Indonesia,49,Female,186.17,88.12,Healthy,1,179,0,75,Normal,High,25.43,79,0,Negative,40-49
+China,42,Male,155.21,77.12,Unhealthy,1,164,1,108,Normal,High,32.02,64,0,Negative,40-49
+Uzbekistan,70,Male,161.27,57.48,Unhealthy,0,163,0,102,Normal,Borderline high,22.1,97,1,Positive,70-79
+Tajikistan,78,Female,185.15,69.03,Unhealthy,0,114,1,70,Normal,High,20.14,89,0,Positive,70-79
+Uzbekistan,75,Female,152.64,70.72,Healthy,1,137,1,106,High,Borderline high,30.35,83,0,Positive,70-79
+Russia,38,Male,174.33,87.69,Unhealthy,0,132,0,75,Normal,Normal,28.85,99,1,Negative,30-39
+Uzbekistan,51,Male,179.97,51.03,Healthy,0,127,0,103,Normal,Normal,15.76,66,0,Negative,50-59
+Tajikistan,49,Female,180.11,63.45,Healthy,1,130,1,84,High,Borderline high,19.56,95,0,Negative,40-49
+Russia,48,Female,151.15,75.88,Unhealthy,0,134,1,95,High,Borderline high,33.21,97,0,Positive,40-49
+Brazil,68,Male,166.11,63.44,Unhealthy,1,177,1,83,Normal,Borderline high,22.99,75,1,Positive,60-69
+USA,64,Female,181.82,81.42,Healthy,1,129,1,76,Normal,Borderline high,24.63,74,0,Negative,60-69
+USA,48,Male,157.45,74.09,Healthy,1,106,1,100,High,High,29.89,82,0,Positive,40-49
+Bangladesh,49,Male,184.77,68.09,Healthy,1,177,1,93,Normal,Normal,19.94,71,0,Positive,40-49
+Brazil,35,Male,187.3,97.46,Healthy,0,146,0,100,Normal,High,27.78,88,0,Negative,30-39
+Brazil,59,Male,199.1,81.61,Healthy,1,91,0,98,Normal,Borderline high,20.59,74,0,Positive,50-59
+Uzbekistan,38,Female,160.49,56.5,Healthy,0,151,0,101,High,High,21.93,88,1,Positive,30-39
+USA,37,Female,191.26,78,Healthy,1,177,1,86,Normal,High,21.32,80,0,Positive,30-39
+Tajikistan,20,Male,176.01,89.04,Unhealthy,1,98,0,83,Normal,Normal,28.74,74,1,Negative,20-29
+India,33,Male,168.67,85.42,Unhealthy,0,157,1,109,High,High,30.03,73,0,Negative,30-39
+India,70,Male,156.12,58.6,Healthy,1,170,1,105,High,Normal,24.04,75,1,Positive,70-79
+Russia,66,Male,186.78,98.62,Unhealthy,0,106,0,93,High,Borderline high,28.27,74,1,Negative,60-69
+USA,69,Male,161.79,72.44,Unhealthy,0,139,1,96,Normal,High,27.67,63,0,Negative,60-69
+USA,21,Female,168.57,57.95,Healthy,1,129,1,94,High,Borderline high,20.39,86,0,Negative,20-29
+India,73,Female,153.13,59.01,Healthy,1,147,1,101,Normal,Normal,25.17,82,0,Positive,70-79
+USA,47,Female,190.07,54.91,Unhealthy,1,164,1,87,High,Borderline high,15.2,88,0,Negative,40-49
+Uzbekistan,68,Female,188.33,90.18,Healthy,1,174,1,87,Normal,Borderline high,25.42,68,1,Positive,60-69
+China,69,Male,186.68,56.1,Healthy,1,110,1,106,High,Normal,16.1,66,1,Positive,60-69
+Azerbaijan,49,Male,164.97,56.26,Unhealthy,1,107,0,95,Normal,Borderline high,20.67,63,0,Negative,40-49
+Brazil,57,Male,158.67,92.52,Healthy,0,144,1,78,Normal,Borderline high,36.75,64,0,Positive,50-59
+Bangladesh,70,Male,181.88,67.23,Unhealthy,0,118,1,104,High,Borderline high,20.32,64,1,Negative,70-79
+Russia,23,Male,174.81,51.54,Unhealthy,1,113,1,77,High,High,16.87,70,0,Negative,20-29
+China,20,Female,158.91,52.59,Healthy,0,163,1,89,Normal,Borderline high,20.83,87,0,Negative,20-29
+India,27,Male,184.3,57.11,Unhealthy,0,106,0,91,High,Normal,16.81,75,0,Positive,20-29
+Brazil,48,Female,160.56,60.67,Unhealthy,1,107,0,88,Normal,High,15.23,89,0,Negative,40-49
+USA,74,Female,187.36,83.26,Healthy,1,131,1,99,High,High,23.72,63,0,Negative,70-79
+Bangladesh,58,Female,187,57.87,Healthy,0,173,1,97,High,Normal,16.55,61,0,Negative,50-59
+USA,22,Female,197.52,55.94,Healthy,1,134,1,104,Normal,Borderline high,14.34,62,0,Negative,20-29
+Tajikistan,51,Male,160.15,88.24,Healthy,0,171,0,80,High,High,34.4,80,1,Positive,50-59
+Tajikistan,29,Female,178.28,83.55,Unhealthy,1,106,0,100,High,High,26.29,65,0,Positive,20-29
+Bangladesh,29,Female,198.98,71.77,Healthy,0,162,0,108,Normal,High,18.13,77,0,Negative,20-29
+Bangladesh,38,Female,158.26,77.47,Healthy,0,103,0,105,Normal,Borderline high,30.93,64,0,Negative,30-39
+India,65,Male,185.01,65.6,Unhealthy,0,138,1,99,High,High,19.16,68,0,Positive,60-69
+Bangladesh,53,Male,179.29,74.13,Healthy,0,118,0,92,Normal,Normal,23.06,79,1,Positive,50-59
+Uzbekistan,79,Male,179.32,75.33,Healthy,1,93,0,88,High,Borderline high,23.43,87,0,Positive,70-79
+USA,52,Female,184.88,69.36,Healthy,1,171,1,81,High,Normal,20.29,85,0,Negative,50-59
+China,42,Female,196.48,95.33,Unhealthy,0,109,1,84,Normal,Normal,24.69,77,0,Negative,40-49
+Indonesia,74,Male,189.13,50.8,Unhealthy,0,136,0,100,Normal,High,14.2,78,1,Positive,70-79
+Bangladesh,47,Female,152.81,89.11,Unhealthy,1,98,0,106,Normal,High,38.16,62,1,Positive,40-49
+Russia,51,Male,192.64,56.22,Unhealthy,1,166,0,106,Normal,High,15.15,68,0,Positive,50-59
+Tajikistan,69,Male,161.28,89.88,Healthy,0,168,0,84,Normal,Normal,34.55,95,0,Positive,60-69
+Uzbekistan,26,Female,168.85,80.8,Unhealthy,0,116,1,98,Normal,Borderline high,28.34,90,0,Negative,20-29
+Brazil,48,Female,173.09,92.16,Unhealthy,0,104,1,95,High,High,30.76,76,0,Negative,40-49
+Indonesia,27,Female,174.05,54.88,Unhealthy,0,108,0,71,High,High,18.12,82,0,Positive,20-29
+China,20,Female,171.76,77.95,Healthy,0,179,0,89,Normal,Normal,26.42,93,0,Negative,20-29
+Indonesia,76,Male,196.87,75.05,Healthy,1,141,0,84,High,Borderline high,19.37,64,0,Negative,70-79
+Bangladesh,74,Male,185.3,85.31,Unhealthy,0,115,0,73,High,Normal,24.85,74,1,Negative,70-79
+India,22,Male,181.56,76.71,Unhealthy,1,178,0,91,High,High,23.27,62,0,Negative,20-29
+Tajikistan,43,Male,152.49,77.04,Unhealthy,1,115,1,107,High,Normal,33.13,78,1,Positive,40-49
+Tajikistan,42,Male,195.2,71.48,Unhealthy,1,115,1,92,Normal,High,18.76,87,1,Negative,40-49
+Brazil,78,Female,195.47,65.44,Healthy,0,135,1,95,High,Borderline high,17.13,62,0,Negative,70-79
+India,27,Male,189.01,74.11,Unhealthy,1,138,0,80,High,Normal,20.75,97,0,Positive,20-29
+USA,73,Male,150.35,55.92,Unhealthy,1,171,0,97,Normal,High,24.74,63,0,Positive,70-79
+Azerbaijan,76,Male,152.86,98.08,Unhealthy,1,142,1,71,Normal,High,41.97,83,0,Positive,70-79
+Uzbekistan,66,Female,161.26,85.72,Healthy,1,92,1,77,Normal,High,32.96,90,0,Negative,60-69
+Tajikistan,56,Female,156.57,97.62,Healthy,0,155,0,98,Normal,High,39.82,70,0,Negative,50-59
+Russia,22,Female,169.94,61.34,Unhealthy,0,131,1,80,High,Normal,21.24,96,0,Positive,20-29
+Tajikistan,70,Female,196.13,93.97,Unhealthy,1,108,0,106,Normal,High,24.43,60,0,Negative,70-79
+Indonesia,52,Male,173.6,90.44,Unhealthy,1,106,0,87,High,Normal,30.01,68,0,Negative,50-59
+Tajikistan,47,Male,150.67,83.86,Unhealthy,0,122,1,83,High,High,36.94,76,0,Positive,40-49
+Tajikistan,66,Female,164.14,81.25,Unhealthy,0,165,1,79,Normal,Normal,30.16,60,0,Negative,60-69
+Azerbaijan,27,Female,152.23,65.83,Healthy,0,138,1,104,Normal,Normal,28.41,62,0,Negative,20-29
+Azerbaijan,53,Male,151.81,90.82,Healthy,1,145,0,78,Normal,High,39.41,85,0,Negative,50-59
+China,54,Male,163.79,75.08,Healthy,0,152,0,104,Normal,High,27.99,90,0,Positive,50-59
+USA,51,Female,163.78,53.54,Unhealthy,1,92,1,80,Normal,High,19.96,85,0,Positive,50-59
+Russia,43,Female,189.36,65.64,Healthy,1,138,0,81,Normal,High,18.31,82,1,Positive,40-49
+Tajikistan,33,Female,198.74,96.76,Healthy,0,144,0,72,High,Borderline high,24.5,89,0,Negative,30-39
+Tajikistan,51,Female,168.56,92.53,Healthy,1,115,0,108,High,High,32.57,69,0,Negative,50-59
+Uzbekistan,75,Male,171.44,99.1,Unhealthy,0,161,1,83,High,High,33.71,67,0,Positive,70-79
+Azerbaijan,65,Male,192.24,81.4,Unhealthy,1,141,0,97,High,High,22.03,84,1,Negative,60-69
+Russia,62,Male,163.41,62.38,Healthy,0,96,1,80,Normal,Normal,23.36,81,0,Positive,60-69
+Brazil,35,Female,157.82,58.14,Unhealthy,1,135,1,108,Normal,High,23.34,74,0,Negative,30-39
+China,23,Female,192.65,59.35,Healthy,1,135,0,94,High,Normal,15.99,69,0,Negative,20-29
+USA,71,Male,152.33,50.99,Healthy,0,105,1,90,High,Normal,21.98,79,0,Positive,70-79
+India,56,Male,180.98,69.53,Healthy,0,113,0,79,High,Normal,21.23,82,1,Positive,50-59
+USA,73,Male,178.1,59.57,Healthy,0,150,1,84,Normal,Normal,18.78,60,1,Positive,70-79
+Indonesia,40,Male,167.3,70.58,Unhealthy,0,143,1,88,Normal,Borderline high,25.22,61,0,Negative,40-49
+Tajikistan,33,Female,165.76,96.75,Unhealthy,1,151,0,91,Normal,High,35.21,78,0,Negative,30-39
+China,50,Male,188.59,71.53,Unhealthy,0,90,1,90,High,Normal,20.11,73,0,Positive,50-59
+Indonesia,74,Male,154.32,93.9,Unhealthy,0,138,1,101,High,High,39.43,67,1,Negative,70-79
+Russia,67,Male,161.84,80.28,Healthy,1,114,1,92,Normal,Normal,30.65,97,1,Positive,60-69
+India,37,Male,186.62,62.36,Unhealthy,0,99,0,82,Normal,Borderline high,17.9,71,0,Negative,30-39
+Azerbaijan,26,Male,177.42,67.79,Healthy,0,169,0,74,High,Normal,21.54,85,1,Positive,20-29
+China,29,Male,156.4,54.2,Unhealthy,1,105,1,73,High,High,22.16,86,0,Negative,20-29
+China,26,Male,194.11,66.67,Unhealthy,0,147,1,97,Normal,High,17.7,88,0,Negative,20-29
+Tajikistan,52,Female,169.67,83.88,Healthy,0,161,1,83,High,Borderline high,29.14,74,0,Negative,50-59
+Bangladesh,42,Female,191.39,53.61,Healthy,0,118,0,77,Normal,High,14.63,60,0,Negative,40-49
+China,40,Female,189.39,60.27,Healthy,0,95,0,78,Normal,High,16.8,87,1,Positive,40-49
+Uzbekistan,38,Female,181.22,69.07,Healthy,0,105,1,104,High,Normal,21.03,62,0,Negative,30-39
+India,67,Male,174.72,99.1,Healthy,0,109,0,106,High,High,32.46,77,0,Positive,60-69
+India,38,Female,198.98,89.24,Unhealthy,1,169,0,90,High,Normal,22.54,93,0,Positive,30-39
+Uzbekistan,55,Female,157.25,86.67,Healthy,0,160,0,87,Normal,Borderline high,35.05,91,1,Positive,50-59
+Brazil,48,Male,186.26,55.81,Healthy,1,167,0,102,High,High,16.09,88,0,Positive,40-49
+Uzbekistan,79,Male,159.56,89.05,Unhealthy,1,132,1,77,High,Normal,34.98,84,0,Negative,70-79
+Uzbekistan,37,Female,166.91,89.26,Unhealthy,1,115,0,86,Normal,High,32.04,85,1,Positive,30-39
+India,21,Female,165.43,80.06,Healthy,1,179,0,100,Normal,Normal,29.25,98,0,Negative,20-29
+USA,20,Male,197.35,99.52,Unhealthy,0,167,1,103,High,Borderline high,25.55,67,1,Negative,20-29
+India,66,Female,198.37,66.26,Healthy,0,160,1,75,Normal,Normal,16.84,78,0,Negative,60-69
+Bangladesh,24,Male,159.15,97.06,Unhealthy,0,122,0,91,Normal,High,38.32,81,0,Negative,20-29
+Tajikistan,39,Male,151.1,95.74,Healthy,1,115,0,83,Normal,Normal,41.93,88,0,Positive,30-39
+Indonesia,30,Male,186,50.57,Healthy,0,134,1,72,High,High,14.62,92,0,Negative,30-39
+USA,61,Male,170.9,72.51,Healthy,0,173,1,81,High,Borderline high,24.83,97,0,Positive,60-69
+Azerbaijan,21,Female,154.44,98.86,Healthy,0,152,1,105,Normal,Normal,41.44,94,0,Negative,20-29
+Indonesia,22,Male,184.19,55.16,Healthy,1,156,0,81,Normal,High,16.26,62,0,Negative,20-29
+Tajikistan,42,Male,177.26,77.39,Unhealthy,1,141,0,71,Normal,High,24.63,78,1,Positive,40-49
+Bangladesh,74,Female,199.03,98.95,Healthy,0,157,1,71,High,High,24.98,69,0,Negative,70-79
+Bangladesh,31,Male,161.37,77.77,Healthy,1,115,0,84,Normal,Normal,29.87,86,1,Negative,30-39
+Azerbaijan,39,Female,170.2,59.49,Healthy,1,164,1,92,Normal,Normal,20.54,74,0,Negative,30-39
+USA,24,Female,177.13,79.11,Healthy,0,91,0,98,High,Normal,25.21,70,0,Negative,20-29
+Brazil,56,Female,189.58,60.22,Healthy,1,103,1,86,Normal,Borderline high,16.76,85,0,Negative,50-59
+Uzbekistan,57,Male,177.44,75.99,Unhealthy,1,119,1,101,High,High,24.13,83,0,Positive,50-59
+USA,49,Female,180.65,53.7,Healthy,0,138,0,76,High,High,16.46,72,0,Negative,40-49
+Brazil,28,Female,161.31,80.27,Healthy,1,101,0,99,High,Borderline high,30.85,91,0,Negative,20-29
+Bangladesh,53,Male,192.35,75.84,Unhealthy,1,179,0,97,Normal,Borderline high,20.5,96,1,Positive,50-59
+India,72,Female,171.43,87.01,Healthy,1,133,0,83,Normal,Normal,29.61,63,0,Negative,70-79
+Tajikistan,63,Female,157.05,81.54,Unhealthy,1,122,0,99,High,Normal,33.06,72,1,Positive,60-69
+Azerbaijan,54,Female,157.21,77.48,Unhealthy,1,102,0,86,Normal,Normal,23.08,68,0,Negative,50-59
+Tajikistan,71,Female,160.8,84.49,Healthy,1,167,1,101,High,Normal,32.67,93,0,Negative,70-79
+Russia,77,Female,154.88,57.2,Unhealthy,1,177,0,75,Normal,Normal,23.84,96,0,Positive,70-79
+Russia,41,Male,193.1,79.77,Unhealthy,1,115,1,93,High,Normal,21.39,66,0,Negative,40-49
+USA,63,Female,173.01,58.61,Healthy,0,110,1,75,High,Borderline high,19.58,60,0,Negative,60-69
+Bangladesh,43,Female,187.46,96.28,Healthy,0,117,0,96,Normal,Borderline high,27.4,71,1,Positive,40-49
+Bangladesh,36,Male,164.53,53.42,Unhealthy,0,137,1,87,Normal,Borderline high,19.73,80,1,Positive,30-39
+Uzbekistan,29,Male,189.35,71.52,Unhealthy,0,129,1,93,Normal,High,19.95,70,0,Negative,20-29
+Uzbekistan,49,Male,155.6,84.79,Unhealthy,1,155,0,106,Normal,High,35.02,73,0,Positive,40-49
+Uzbekistan,75,Female,167.8,72.9,Healthy,0,162,0,93,High,Normal,25.89,93,0,Negative,70-79
+India,78,Male,198.9,54.6,Unhealthy,0,176,0,107,High,Borderline high,13.8,93,0,Positive,70-79
+Indonesia,65,Female,189.7,77.67,Unhealthy,1,168,1,103,Normal,High,21.58,84,0,Negative,60-69
+China,42,Female,174.86,82.08,Unhealthy,1,166,0,109,Normal,High,26.84,63,0,Positive,40-49
+Indonesia,51,Male,166.99,85.19,Healthy,1,112,0,84,High,Borderline high,30.55,85,1,Negative,50-59
+Tajikistan,36,Male,193.61,68.66,Healthy,1,170,0,80,Normal,High,18.32,75,0,Positive,30-39
+Indonesia,69,Female,177.24,78.18,Healthy,1,137,0,91,Normal,High,24.89,69,0,Negative,60-69
+India,70,Male,187.92,72.53,Healthy,0,91,1,93,Normal,Borderline high,20.54,61,1,Positive,70-79
+Tajikistan,36,Female,187.71,83.6,Unhealthy,1,173,0,70,Normal,High,23.73,94,0,Positive,30-39
+Indonesia,33,Male,150.9,79.18,Healthy,0,109,1,87,High,Borderline high,34.77,78,0,Negative,30-39
+India,28,Male,156.31,76.29,Healthy,0,148,0,81,Normal,Normal,31.22,65,0,Negative,20-29
+China,59,Male,182.98,62.48,Unhealthy,1,135,1,97,Normal,Borderline high,18.66,78,0,Positive,50-59
+Indonesia,21,Female,158.08,50.1,Unhealthy,0,92,1,109,High,High,20.05,67,0,Negative,20-29
+India,64,Male,162.77,58.7,Unhealthy,0,144,1,76,Normal,High,22.16,73,0,Positive,60-69
+Uzbekistan,44,Female,197.33,55.85,Healthy,1,101,0,92,Normal,Borderline high,14.34,69,0,Negative,40-49
+Bangladesh,58,Female,178.01,72.45,Healthy,0,129,1,90,Normal,High,22.87,62,0,Positive,50-59
+Uzbekistan,28,Female,187.54,80.61,Healthy,0,155,0,103,High,Borderline high,22.92,97,0,Negative,20-29
+Bangladesh,73,Female,177.9,60.65,Healthy,0,167,0,80,High,Borderline high,19.17,88,0,Positive,70-79
+Azerbaijan,41,Male,177.63,96.95,Healthy,1,105,0,91,High,High,30.73,74,1,Positive,40-49
+Azerbaijan,62,Female,154.71,50.33,Unhealthy,1,172,0,104,High,Normal,21.03,82,0,Positive,60-69
+Azerbaijan,65,Female,167.18,88.62,Healthy,1,123,0,98,High,High,31.7,82,0,Negative,60-69
+China,23,Male,164.12,81.26,Healthy,0,133,1,97,Normal,Normal,30.17,77,0,Negative,20-29
+Uzbekistan,45,Female,169.54,68.68,Healthy,1,95,0,87,Normal,Normal,23.89,78,0,Positive,40-49
+Bangladesh,77,Male,189.92,52.52,Healthy,0,166,1,83,High,High,14.56,87,1,Positive,70-79
+India,48,Female,168.6,81.37,Unhealthy,1,153,1,87,High,Normal,28.63,85,1,Positive,40-49
+Tajikistan,64,Male,172.58,69.28,Unhealthy,0,111,1,97,High,Borderline high,23.26,69,0,Negative,60-69
+India,53,Female,169.87,96.81,Unhealthy,1,107,1,93,Normal,Borderline high,33.55,63,0,Positive,50-59
+Tajikistan,42,Male,154.67,77.1,Unhealthy,1,101,1,77,High,Normal,32.23,61,0,Positive,40-49
+Russia,56,Female,172.05,96.98,Unhealthy,0,141,1,77,Normal,Borderline high,32.76,62,0,Positive,50-59
+India,30,Female,159.78,61.02,Healthy,1,140,1,73,Normal,High,23.9,66,0,Negative,30-39
+Indonesia,25,Male,159.34,86.29,Healthy,0,160,0,96,High,Borderline high,33.99,75,0,Negative,20-29
+Indonesia,37,Male,154.7,80.86,Unhealthy,1,137,1,105,Normal,Normal,33.79,90,1,Negative,30-39
+USA,40,Male,167.83,86.97,Unhealthy,1,108,0,74,Normal,High,30.88,69,0,Negative,40-49
+Uzbekistan,61,Male,187.87,60.73,Healthy,0,95,1,102,High,Borderline high,17.21,78,0,Positive,60-69
+Tajikistan,55,Female,163.82,83.25,Healthy,0,173,1,103,Normal,High,31.02,87,0,Positive,50-59
+Tajikistan,60,Female,165.62,74.9,Healthy,0,116,1,99,High,Normal,27.31,76,0,Negative,60-69
+Uzbekistan,57,Male,182.13,87.14,Healthy,1,142,1,77,Normal,Borderline high,26.27,87,1,Positive,50-59
+China,53,Female,159.79,66.35,Healthy,0,137,0,108,High,High,25.99,78,0,Negative,50-59
+USA,36,Male,194.85,94.5,Unhealthy,1,96,0,95,High,High,24.89,96,0,Positive,30-39
+China,56,Male,176.01,54.22,Healthy,0,148,0,106,Normal,Borderline high,17.5,82,0,Negative,50-59
+China,44,Female,172.38,90.36,Healthy,0,158,1,103,High,High,30.41,79,0,Negative,40-49
+China,57,Female,177.89,93.07,Healthy,0,100,1,76,Normal,High,29.41,72,0,Positive,50-59
+Uzbekistan,77,Female,158.3,90.86,Unhealthy,0,104,1,109,Normal,Normal,36.26,72,0,Negative,70-79
+China,31,Female,180.67,75.64,Unhealthy,0,153,0,97,High,Normal,23.17,70,1,Positive,30-39
+Indonesia,42,Female,168.16,71.92,Unhealthy,0,92,1,108,Normal,Normal,25.43,74,0,Negative,40-49
+Azerbaijan,72,Female,194.86,99.81,Healthy,1,158,0,108,High,Normal,26.29,76,0,Positive,70-79
+Russia,61,Female,158.44,61.46,Unhealthy,0,112,0,97,Normal,Normal,24.48,87,0,Positive,60-69
+Tajikistan,41,Male,175.35,77.34,Healthy,1,142,1,83,Normal,Normal,25.15,78,0,Positive,40-49
+Tajikistan,40,Male,179.91,83.53,Healthy,0,126,1,107,High,Borderline high,25.81,63,1,Negative,40-49
+Russia,46,Male,151.67,85.04,Healthy,0,98,0,73,Normal,Normal,36.97,81,1,Positive,40-49
+Uzbekistan,76,Male,168.18,60.2,Unhealthy,0,104,0,87,Normal,High,21.28,81,1,Positive,70-79
+India,50,Male,186.63,82.7,Unhealthy,1,92,0,94,Normal,Borderline high,23.74,96,1,Positive,50-59
+Uzbekistan,25,Female,191.02,90.92,Unhealthy,1,159,1,76,Normal,High,24.92,98,0,Negative,20-29
+Tajikistan,46,Male,165.66,52.5,Unhealthy,0,106,1,107,Normal,Normal,19.13,93,0,Positive,40-49
+Tajikistan,59,Male,189.93,95.58,Healthy,1,115,1,97,Normal,Normal,26.49,92,1,Negative,50-59
+Russia,53,Male,198.39,51.48,Unhealthy,0,110,1,74,Normal,High,13.08,99,0,Negative,50-59
+China,31,Male,192.84,67.8,Healthy,0,161,1,72,Normal,High,18.23,92,0,Negative,30-39
+Uzbekistan,64,Male,155.88,50.79,Unhealthy,1,110,1,100,High,High,20.9,71,0,Positive,60-69
+Bangladesh,76,Male,186.99,53.86,Unhealthy,1,100,0,89,Normal,Borderline high,15.4,61,0,Positive,70-79
+Russia,72,Male,165.98,95.56,Unhealthy,1,127,0,88,Normal,Normal,34.68,87,1,Negative,70-79
+Indonesia,26,Female,199.42,67.74,Healthy,1,161,0,80,High,High,17.03,69,0,Positive,20-29
+Tajikistan,29,Female,174.27,71.24,Healthy,0,177,1,109,High,Normal,23.46,81,1,Positive,20-29
+Russia,64,Male,156.12,60.77,Healthy,1,124,0,72,High,High,24.93,76,1,Negative,60-69
+Uzbekistan,36,Female,186.26,79.85,Healthy,1,103,1,92,Normal,Normal,23.02,85,0,Negative,30-39
+Tajikistan,45,Female,166.15,79.74,Healthy,0,103,1,76,High,Borderline high,28.89,62,1,Positive,40-49
+India,40,Female,199.85,68.61,Unhealthy,1,99,0,92,High,Normal,17.18,66,0,Negative,40-49
+Russia,47,Female,198.99,66.65,Healthy,1,101,1,76,Normal,High,16.83,67,0,Positive,40-49
+USA,77,Male,182.81,94.25,Healthy,1,127,0,103,Normal,Normal,28.2,79,1,Negative,70-79
+Tajikistan,65,Female,156.49,69.16,Healthy,1,123,0,88,High,Borderline high,28.24,71,0,Positive,60-69
+Uzbekistan,21,Female,184.34,74.68,Healthy,0,130,1,78,High,Borderline high,21.97,94,0,Positive,20-29
+Azerbaijan,79,Female,154.65,64.17,Healthy,0,99,0,87,Normal,Normal,26.83,76,0,Negative,70-79
+Bangladesh,73,Male,151.47,89.34,Healthy,1,106,0,94,Normal,High,38.94,87,0,Positive,70-79
+Brazil,62,Male,191.15,69.87,Unhealthy,1,106,0,83,Normal,Borderline high,19.12,69,0,Positive,60-69
+China,20,Male,160.49,75.68,Unhealthy,0,156,0,94,Normal,Borderline high,29.38,81,0,Negative,20-29
+Brazil,70,Male,168.95,62.67,Unhealthy,1,151,1,88,Normal,Normal,21.95,97,1,Positive,70-79
+Uzbekistan,72,Male,198.67,99.38,Healthy,1,90,0,108,High,Borderline high,25.18,92,0,Positive,70-79
+Indonesia,55,Male,166.84,64.57,Unhealthy,1,101,0,84,Normal,Borderline high,23.2,81,1,Positive,50-59
+Indonesia,70,Male,164.82,88.54,Healthy,1,93,0,85,Normal,High,32.59,96,1,Negative,70-79
+Azerbaijan,45,Female,195.91,71.37,Healthy,1,131,1,96,Normal,High,18.6,72,0,Negative,40-49
+China,48,Female,155.54,60.31,Healthy,1,102,0,109,Normal,High,24.93,86,0,Negative,40-49
+USA,40,Female,187.98,89.99,Healthy,1,174,1,79,Normal,Normal,25.47,74,0,Negative,40-49
+Azerbaijan,30,Male,199.4,66.68,Healthy,1,175,0,73,High,Borderline high,16.77,81,1,Negative,30-39
+Brazil,59,Male,195.06,93.26,Unhealthy,1,93,0,88,Normal,Normal,24.51,89,0,Positive,50-59
+Azerbaijan,30,Male,182.58,95.76,Unhealthy,0,171,0,97,High,Borderline high,28.73,99,1,Positive,30-39
+Brazil,55,Male,165.7,92.99,Healthy,0,158,1,90,Normal,Borderline high,33.87,96,0,Positive,50-59
+Tajikistan,68,Male,162.72,51.75,Unhealthy,0,108,1,83,High,Borderline high,19.55,93,0,Negative,60-69
+Indonesia,78,Female,190.96,89.37,Healthy,1,91,1,102,High,High,24.51,93,1,Positive,70-79
+Tajikistan,58,Female,193.99,70.57,Healthy,1,101,1,79,Normal,Normal,18.75,94,0,Negative,50-59
+Bangladesh,59,Male,176.27,93.69,Unhealthy,0,170,1,88,Normal,Normal,30.15,78,0,Positive,50-59
+China,54,Male,162.22,81.9,Unhealthy,1,163,1,99,Normal,Borderline high,31.12,67,0,Negative,50-59
+USA,73,Male,155.65,91.68,Unhealthy,0,95,0,91,Normal,Normal,37.84,98,0,Positive,70-79
+Brazil,53,Male,154.36,74.97,Unhealthy,1,97,1,72,Normal,High,31.47,92,0,Positive,50-59
+USA,74,Female,185.95,76.75,Healthy,0,140,0,106,High,Normal,22.2,87,0,Negative,70-79
+Brazil,66,Male,171.01,57.22,Healthy,0,100,1,87,Normal,Borderline high,19.57,96,1,Positive,60-69
+Uzbekistan,43,Male,195.27,89.2,Unhealthy,0,152,1,80,Normal,High,23.39,84,1,Positive,40-49
+Azerbaijan,73,Male,186.98,70.97,Healthy,1,146,1,71,High,High,20.3,95,1,Negative,70-79
+Bangladesh,41,Male,159.56,75,Unhealthy,0,101,0,81,Normal,Borderline high,29.46,76,1,Positive,40-49
+Indonesia,24,Female,180.69,89.25,Healthy,1,162,1,75,High,Normal,27.34,83,0,Positive,20-29
+Brazil,75,Male,171.78,79.94,Unhealthy,1,91,1,109,Normal,Borderline high,27.09,80,1,Negative,70-79
+USA,52,Male,178.86,60.05,Unhealthy,1,97,0,98,High,Normal,18.77,61,1,Negative,50-59
+Bangladesh,77,Female,186.9,79.51,Healthy,1,100,0,99,Normal,Normal,22.76,90,0,Negative,70-79
+India,55,Female,190.31,70.38,Healthy,1,142,0,71,High,High,19.43,92,0,Negative,50-59
+India,66,Female,192.19,73.48,Healthy,1,99,0,78,High,Borderline high,19.89,89,0,Negative,60-69
+Tajikistan,39,Male,162.7,51.42,Unhealthy,1,174,1,71,Normal,High,19.42,71,0,Positive,30-39
+Indonesia,38,Male,151.56,60.5,Unhealthy,0,173,0,98,Normal,Borderline high,26.34,71,1,Negative,30-39
+Uzbekistan,54,Female,186.96,64.05,Healthy,0,97,1,102,Normal,Borderline high,18.32,83,0,Negative,50-59
+USA,71,Female,155.32,85.65,Healthy,0,125,1,79,High,High,35.5,83,1,Positive,70-79
+Azerbaijan,62,Female,165.75,50.57,Healthy,1,165,0,103,High,Borderline high,18.41,70,0,Positive,60-69
+Azerbaijan,36,Female,150.19,70.44,Healthy,1,103,1,77,High,Borderline high,31.23,72,1,Positive,30-39
+USA,78,Female,184.08,96.2,Healthy,1,143,0,106,Normal,Normal,28.39,86,0,Positive,70-79
+China,64,Female,158.36,55.59,Unhealthy,1,174,1,102,Normal,Borderline high,22.17,67,0,Positive,60-69
+Uzbekistan,62,Male,182.76,75.82,Healthy,0,175,0,75,High,Borderline high,22.7,69,1,Negative,60-69
+Bangladesh,53,Male,199.59,89.33,Unhealthy,1,110,0,109,Normal,High,22.42,67,0,Positive,50-59
+Brazil,28,Male,153.63,97.13,Unhealthy,0,139,0,88,High,High,41.15,79,0,Negative,20-29
+China,45,Female,153.85,87.34,Healthy,1,128,0,101,Normal,Borderline high,36.9,67,1,Positive,40-49
+Brazil,21,Female,167.02,86.03,Healthy,0,109,0,96,Normal,Normal,30.84,68,0,Negative,20-29
+Brazil,72,Female,193.32,91.32,Unhealthy,1,177,0,70,High,Normal,24.44,66,0,Positive,70-79
+China,28,Female,160.78,72.31,Healthy,0,176,1,102,Normal,High,27.97,73,0,Negative,20-29
+Tajikistan,28,Female,168.02,90.29,Healthy,1,96,1,109,Normal,Borderline high,31.98,87,0,Negative,20-29
+India,59,Female,153.43,50.4,Healthy,0,98,1,101,Normal,Borderline high,21.41,61,0,Negative,50-59
+Brazil,36,Male,188.16,96.23,Healthy,1,90,0,74,Normal,Normal,27.18,67,0,Negative,30-39
+China,20,Male,170.42,72.17,Healthy,0,115,1,86,Normal,Normal,24.85,72,0,Negative,20-29
+China,44,Female,187.96,77.67,Unhealthy,0,127,0,77,High,Normal,21.98,80,0,Negative,40-49
+Russia,62,Male,195.18,62.74,Healthy,1,127,1,103,Normal,High,16.47,87,0,Negative,60-69
+Tajikistan,59,Female,161.64,87.13,Unhealthy,0,150,1,78,High,Borderline high,33.35,94,0,Negative,50-59
+Indonesia,61,Male,190.37,53.83,Healthy,1,133,0,92,Normal,High,14.85,82,0,Negative,60-69
+Russia,44,Female,152.95,93.63,Unhealthy,1,175,1,104,Normal,Borderline high,40.02,74,0,Negative,40-49
+Russia,58,Female,194.94,91.41,Healthy,1,133,1,76,High,High,24.05,61,1,Positive,50-59
+USA,54,Male,182.54,60.8,Unhealthy,0,163,1,84,High,Borderline high,18.25,71,0,Negative,50-59
+India,22,Male,193.71,90.47,Unhealthy,0,151,0,89,Normal,Normal,24.11,95,0,Negative,20-29
+China,69,Female,150.01,89.32,Unhealthy,1,95,1,94,Normal,Normal,39.69,62,1,Positive,60-69
+India,56,Female,158.45,81.61,Healthy,1,106,0,72,High,Normal,32.5,64,0,Negative,50-59
+Uzbekistan,63,Male,169.49,68.68,Unhealthy,0,140,1,93,High,High,23.91,62,1,Negative,60-69
+USA,63,Male,168.98,63.57,Unhealthy,0,127,1,103,High,Normal,22.27,78,0,Positive,60-69
+Indonesia,70,Female,161.34,61.59,Healthy,0,113,1,91,High,Borderline high,23.66,61,1,Positive,70-79
+India,49,Male,169.08,65.93,Unhealthy,1,140,1,80,Normal,High,23.06,96,0,Negative,40-49
+Azerbaijan,57,Female,156.44,95.18,Unhealthy,1,99,0,77,Normal,Borderline high,38.89,76,0,Positive,50-59
+Brazil,53,Female,170.64,53.88,Unhealthy,1,161,1,108,Normal,High,18.51,73,0,Negative,50-59
+Uzbekistan,31,Female,190.12,91.44,Healthy,1,110,0,104,Normal,Borderline high,25.3,87,0,Negative,30-39
+Tajikistan,38,Female,173.95,67.44,Healthy,1,159,0,107,Normal,Borderline high,22.29,86,0,Negative,30-39
+Indonesia,56,Male,150.9,76.08,Healthy,0,174,1,77,High,High,33.41,69,0,Positive,50-59
+Uzbekistan,63,Male,171.07,89.72,Unhealthy,1,146,1,106,High,High,30.66,62,0,Negative,60-69
+Brazil,78,Male,151.36,94.22,Healthy,0,128,0,96,High,Normal,41.13,95,0,Negative,70-79
+USA,78,Male,198.31,67.24,Healthy,0,177,0,97,Normal,Normal,17.1,97,1,Positive,70-79
+Brazil,68,Male,156.37,73.09,Unhealthy,1,122,1,109,High,Borderline high,29.89,84,0,Negative,60-69
+Russia,36,Male,185.38,70.73,Unhealthy,0,148,1,103,Normal,Borderline high,20.58,81,1,Negative,30-39
+Brazil,29,Male,198.64,50.66,Healthy,1,107,1,101,Normal,Borderline high,12.84,98,0,Negative,20-29
+Russia,76,Female,191.3,64.8,Healthy,0,145,1,84,Normal,High,17.71,89,0,Negative,70-79
+USA,74,Male,184.97,72.96,Unhealthy,1,146,1,86,High,High,21.33,80,0,Negative,70-79
+Bangladesh,68,Male,191.97,70.55,Unhealthy,1,165,0,102,Normal,Normal,19.14,89,1,Negative,60-69
+Russia,66,Female,199.09,86.1,Unhealthy,0,137,1,85,Normal,Borderline high,21.72,87,1,Positive,60-69
+Tajikistan,31,Male,181.07,69.24,Healthy,1,131,1,98,High,Normal,21.12,90,1,Negative,30-39
+Brazil,35,Male,177.96,74.47,Unhealthy,0,116,0,78,Normal,High,23.51,85,1,Negative,30-39
+Brazil,43,Female,181.41,71.48,Healthy,1,163,1,102,High,High,21.72,81,1,Positive,40-49
+Tajikistan,38,Male,176.63,87.03,Healthy,1,141,1,98,Normal,High,27.9,80,1,Negative,30-39
+Azerbaijan,27,Male,181.75,93.15,Healthy,1,131,0,82,High,Normal,28.2,60,0,Negative,20-29
+China,50,Male,172.49,76.59,Healthy,0,121,1,90,Normal,High,25.74,96,0,Positive,50-59
+Bangladesh,40,Female,160.92,89.47,Unhealthy,0,115,0,90,Normal,Borderline high,34.55,72,0,Positive,40-49
+Indonesia,36,Male,156.01,64.84,Unhealthy,1,114,1,74,High,Normal,26.64,80,0,Positive,30-39
+Russia,42,Male,153.42,77.07,Unhealthy,0,164,1,79,Normal,High,32.74,68,1,Positive,40-49
+Tajikistan,56,Female,163.17,67.26,Healthy,1,112,1,75,High,Normal,25.26,76,0,Positive,50-59
+USA,73,Male,152.31,70.71,Healthy,0,146,0,82,Normal,Normal,30.48,80,1,Positive,70-79
+Russia,35,Female,178.36,86.62,Healthy,0,141,0,70,High,High,27.23,90,1,Positive,30-39
+China,25,Female,164.19,94.08,Healthy,1,176,0,89,Normal,High,34.9,98,0,Negative,20-29
+USA,27,Male,191.23,56.07,Healthy,1,120,0,77,Normal,Normal,15.33,81,0,Negative,20-29
+Uzbekistan,44,Female,153.71,81.73,Healthy,1,153,1,79,Normal,Normal,34.59,71,0,Negative,40-49
+Brazil,37,Female,161.32,79.11,Unhealthy,1,160,0,78,High,High,30.4,65,0,Positive,30-39
+Uzbekistan,44,Male,186.51,55.92,Unhealthy,1,122,0,72,High,Borderline high,16.08,75,0,Negative,40-49
+Russia,31,Female,179.94,60.59,Unhealthy,0,174,0,80,High,Normal,18.71,85,0,Positive,30-39
+China,34,Female,153.22,65.55,Healthy,0,91,1,81,High,Normal,27.92,64,0,Negative,30-39
+Bangladesh,78,Male,193.86,58.35,Unhealthy,1,107,1,79,High,Borderline high,15.52,68,0,Negative,70-79
+Russia,45,Male,193.86,62.19,Healthy,1,136,0,94,Normal,High,16.55,99,1,Negative,40-49
+Tajikistan,60,Male,166.52,63.38,Unhealthy,1,122,0,94,Normal,High,22.86,73,1,Negative,60-69
+India,64,Female,167.02,66.78,Healthy,0,173,1,80,Normal,Borderline high,23.94,89,0,Positive,60-69
+Russia,45,Male,199.45,87.47,Healthy,1,124,0,105,Normal,High,21.99,85,1,Positive,40-49
+Brazil,66,Female,181.31,78.6,Unhealthy,1,140,0,108,Normal,High,23.91,88,0,Negative,60-69
+Brazil,51,Female,176.57,99.31,Unhealthy,0,107,0,95,High,Normal,31.86,78,1,Positive,50-59
+Russia,29,Female,191.91,70.74,Unhealthy,0,177,0,83,Normal,Normal,19.21,67,0,Positive,20-29
+USA,35,Female,164.26,87.69,Healthy,0,161,1,108,High,Normal,32.5,82,0,Negative,30-39
+India,26,Female,171.46,93.57,Unhealthy,0,119,1,109,Normal,Borderline high,31.83,94,0,Positive,20-29
+Tajikistan,36,Female,163.39,83.95,Unhealthy,1,133,1,70,High,High,31.45,90,1,Positive,30-39
+Russia,42,Female,189.46,70.59,Healthy,0,142,0,73,High,High,19.67,94,1,Positive,40-49
+USA,45,Male,178.67,87.68,Unhealthy,0,99,0,99,High,Normal,27.47,91,1,Positive,40-49
+Brazil,40,Male,182.94,60.18,Healthy,1,176,1,81,Normal,Normal,17.98,64,1,Negative,40-49
+Brazil,41,Female,162.62,66.38,Healthy,1,141,1,104,Normal,Borderline high,25.1,75,0,Negative,40-49
+China,77,Female,161.01,77.33,Healthy,1,138,1,82,Normal,High,29.83,76,1,Positive,70-79
+Russia,26,Male,174.42,78.77,Healthy,0,100,0,100,Normal,Borderline high,25.89,91,1,Negative,20-29
+India,33,Female,186.88,51.11,Healthy,1,155,1,107,High,High,14.63,97,0,Negative,30-39
+Azerbaijan,34,Male,176.26,97.26,Healthy,0,147,0,92,High,Borderline high,31.3,91,1,Negative,30-39
+India,72,Male,151.63,84.83,Unhealthy,0,179,0,73,High,Normal,36.9,79,0,Positive,70-79
+Brazil,26,Male,193.43,74.79,Healthy,0,125,1,85,Normal,Borderline high,19.99,61,0,Negative,20-29
+Brazil,28,Female,153.23,96.66,Healthy,1,122,1,76,Normal,Borderline high,41.16,79,0,Negative,20-29
+Uzbekistan,70,Female,197.79,71.95,Healthy,0,136,0,91,High,Normal,18.39,77,1,Negative,70-79
+Brazil,67,Male,151.26,99.02,Healthy,1,102,1,98,Normal,High,43.28,60,1,Positive,60-69
+Tajikistan,27,Male,184.72,75.61,Healthy,1,129,1,80,High,High,22.16,88,1,Negative,20-29
+Indonesia,69,Male,154.11,55.71,Healthy,1,178,0,102,High,Normal,23.46,88,1,Positive,60-69
+Russia,78,Male,195.53,88.24,Healthy,0,157,0,98,High,Borderline high,23.08,78,0,Negative,70-79
+India,42,Male,173.22,83.94,Healthy,0,131,0,108,Normal,Borderline high,27.98,99,0,Positive,40-49
+Indonesia,48,Female,156.88,88.65,Healthy,0,108,0,81,Normal,Borderline high,36.02,65,0,Positive,40-49
+USA,37,Male,167.04,97.57,Healthy,1,171,0,76,High,High,34.97,98,1,Positive,30-39
+Azerbaijan,50,Female,158.24,88.82,Healthy,0,108,1,108,High,Borderline high,35.47,67,1,Positive,50-59
+Tajikistan,49,Male,158.53,80.57,Unhealthy,0,147,0,95,High,High,32.06,83,1,Negative,40-49
+India,71,Female,197.41,92.87,Unhealthy,0,112,0,109,Normal,Borderline high,23.83,79,0,Positive,70-79
+Indonesia,58,Female,172.26,83.66,Healthy,0,143,0,78,Normal,Normal,28.19,73,1,Negative,50-59
+Azerbaijan,54,Female,189.44,70.41,Unhealthy,0,169,1,103,Normal,Normal,19.62,64,1,Positive,50-59
+Uzbekistan,37,Female,181.98,94.28,Unhealthy,1,154,0,82,High,High,28.47,99,0,Positive,30-39
+Tajikistan,78,Female,183.82,61.1,Unhealthy,1,101,0,105,Normal,High,18.08,93,0,Negative,70-79
+Tajikistan,61,Female,156.58,85.73,Unhealthy,1,113,0,94,High,Normal,34.97,75,1,Negative,60-69
+Uzbekistan,58,Male,161.71,94.08,Unhealthy,1,123,1,93,Normal,Normal,35.98,66,1,Negative,50-59
+Russia,36,Female,189.34,86.57,Unhealthy,0,142,0,86,High,Borderline high,24.15,75,1,Positive,30-39
+Uzbekistan,33,Male,198.54,84.86,Healthy,1,97,0,71,High,Normal,21.53,66,1,Positive,30-39
+Tajikistan,50,Female,163.13,87.63,Unhealthy,0,107,0,82,Normal,High,32.93,86,0,Negative,50-59
+Tajikistan,43,Female,163.58,73.25,Unhealthy,1,146,1,100,High,Normal,27.38,73,1,Positive,40-49
+Indonesia,54,Male,173.64,93.71,Unhealthy,1,94,1,98,High,High,31.08,73,1,Negative,50-59
+Brazil,63,Female,199.19,60.17,Unhealthy,1,115,1,97,High,High,15.17,92,0,Positive,60-69
+Azerbaijan,79,Male,163.45,56.37,Healthy,0,119,1,96,Normal,Borderline high,21.1,92,1,Positive,70-79
+Uzbekistan,64,Male,170.35,64.28,Healthy,0,143,0,84,High,Borderline high,22.15,79,1,Positive,60-69
+Azerbaijan,53,Male,194.57,76.58,Healthy,1,102,0,100,Normal,Borderline high,20.23,95,0,Negative,50-59
+Uzbekistan,22,Male,150.15,75.53,Healthy,0,172,1,109,Normal,Borderline high,33.5,66,0,Positive,20-29
+USA,56,Female,151.99,91.03,Unhealthy,1,118,1,84,High,Normal,39.41,91,1,Negative,50-59
+Tajikistan,62,Female,180.2,70.23,Healthy,1,92,0,102,Normal,Borderline high,21.63,62,0,Negative,60-69
+Brazil,59,Male,195.37,74.22,Healthy,1,179,0,89,High,Normal,19.44,98,0,Positive,50-59
+Indonesia,45,Female,161.94,50.67,Healthy,0,147,1,81,Normal,Borderline high,19.32,88,1,Negative,40-49
+Brazil,74,Female,173.48,70.49,Healthy,1,165,1,106,High,Borderline high,23.42,83,0,Negative,70-79
+Brazil,42,Male,172.52,82.39,Unhealthy,1,91,1,78,Normal,High,27.68,81,1,Positive,40-49
+Brazil,63,Female,173.65,50.78,Healthy,1,164,1,92,High,Normal,16.84,65,1,Negative,60-69
+Azerbaijan,58,Male,181.13,64.04,Unhealthy,0,117,0,77,High,High,19.52,83,1,Negative,50-59
+Uzbekistan,34,Male,173.49,60.4,Healthy,1,171,1,101,High,Borderline high,20.07,99,1,Positive,30-39
+Bangladesh,75,Female,172.37,52.1,Unhealthy,0,166,1,83,High,Normal,17.53,82,0,Positive,70-79
+USA,68,Female,173.71,73.96,Unhealthy,1,175,0,96,Normal,Borderline high,24.51,97,1,Positive,60-69
+India,23,Female,179.54,59.09,Healthy,0,165,0,94,Normal,High,18.33,69,1,Negative,20-29
+Brazil,48,Male,176.85,87.15,Healthy,1,91,0,82,High,Normal,27.87,75,1,Negative,40-49
+Russia,41,Male,192.71,92.4,Healthy,1,96,0,90,Normal,High,24.88,70,1,Positive,40-49
+Azerbaijan,44,Female,152.47,77.28,Healthy,0,115,0,100,High,Borderline high,33.24,91,0,Negative,40-49
+Indonesia,32,Female,191.67,99.09,Unhealthy,0,179,1,106,High,Borderline high,26.97,65,0,Positive,30-39
+India,37,Female,192.2,72.52,Unhealthy,1,177,1,74,Normal,Borderline high,19.63,83,0,Positive,30-39
+Bangladesh,52,Female,164.25,75.67,Healthy,0,165,1,82,Normal,Normal,28.05,92,1,Positive,50-59
+Russia,35,Male,173.14,99.46,Healthy,1,105,0,97,High,High,33.18,71,0,Negative,30-39
+Bangladesh,64,Female,171.93,61.58,Unhealthy,1,112,1,94,Normal,High,20.83,86,0,Negative,60-69
+India,61,Male,160.93,97.13,Healthy,1,129,0,104,High,Borderline high,37.51,97,1,Positive,60-69
+Brazil,63,Male,169.84,52.14,Unhealthy,0,149,1,108,Normal,High,18.08,77,0,Positive,60-69
+Russia,21,Female,152.22,72.32,Healthy,1,162,1,76,Normal,Normal,31.21,98,1,Negative,20-29
+Bangladesh,74,Female,163.89,53.5,Unhealthy,0,121,0,107,Normal,Borderline high,19.92,72,0,Positive,70-79
+Indonesia,54,Female,190.83,86.46,Unhealthy,1,104,0,101,Normal,Borderline high,23.74,99,0,Negative,50-59
+Uzbekistan,61,Male,164.23,80.42,Unhealthy,0,102,1,72,Normal,Borderline high,29.82,89,0,Positive,60-69
+Tajikistan,53,Female,190.91,85.33,Unhealthy,0,94,1,108,High,Normal,23.41,72,0,Positive,50-59
+Uzbekistan,49,Female,176.58,68.72,Unhealthy,1,164,1,106,Normal,Borderline high,22.04,93,1,Negative,40-49
+India,78,Male,193.99,68.47,Healthy,0,163,1,91,Normal,Borderline high,18.2,95,1,Negative,70-79
+Azerbaijan,74,Female,178.74,52.27,Unhealthy,1,141,1,77,High,Borderline high,16.36,89,0,Negative,70-79
+Tajikistan,32,Male,151.48,67.5,Healthy,1,166,0,86,High,Borderline high,29.41,84,1,Negative,30-39
+USA,32,Female,183.77,96.46,Unhealthy,1,130,0,96,High,High,28.56,61,0,Negative,30-39
+Indonesia,37,Male,152.24,68.96,Unhealthy,1,142,0,102,Normal,Borderline high,29.75,95,0,Positive,30-39
+USA,51,Female,172.53,91.57,Healthy,1,139,0,86,Normal,Normal,30.76,77,0,Positive,50-59
+Russia,51,Female,196.47,92.12,Healthy,0,104,1,81,High,Borderline high,23.86,64,0,Negative,50-59
+Tajikistan,54,Male,158.26,68.66,Healthy,1,96,1,96,High,Borderline high,27.41,78,0,Negative,50-59
+USA,78,Male,169.49,81.6,Healthy,0,129,0,77,High,High,28.4,77,0,Positive,70-79
+USA,58,Female,186.49,54.77,Unhealthy,0,117,1,92,High,Borderline high,15.75,91,1,Positive,50-59
+Bangladesh,65,Male,194.11,55.18,Healthy,1,121,0,98,Normal,High,14.65,80,1,Negative,60-69
+Uzbekistan,71,Male,183.55,52.43,Unhealthy,0,104,1,89,Normal,Normal,15.56,69,0,Negative,70-79
+Bangladesh,48,Male,162.91,79.05,Healthy,1,174,1,85,Normal,High,29.79,96,1,Positive,40-49
+Tajikistan,68,Male,183.73,71.3,Healthy,0,159,1,86,Normal,Borderline high,21.12,81,0,Negative,60-69
+Tajikistan,48,Female,164.84,77.4,Unhealthy,0,154,0,85,Normal,Normal,28.49,72,1,Positive,40-49
+India,72,Female,185.92,76.05,Unhealthy,0,93,0,88,High,Borderline high,22,76,1,Positive,70-79
+Bangladesh,63,Male,197.7,67.51,Healthy,1,100,0,77,Normal,High,17.27,68,1,Negative,60-69
+China,76,Male,186.07,83.87,Unhealthy,0,115,0,107,High,Normal,24.23,83,0,Positive,70-79
+Uzbekistan,35,Male,193.14,87.93,Unhealthy,1,150,1,107,High,Normal,23.57,73,1,Positive,30-39
+Tajikistan,75,Male,150.11,50.73,Unhealthy,0,126,1,98,High,High,22.52,67,0,Positive,70-79
+India,63,Female,185.88,60.36,Unhealthy,0,112,1,105,Normal,High,17.47,96,0,Negative,60-69
+Bangladesh,66,Female,191.48,85.66,Unhealthy,0,174,1,95,High,Normal,23.36,78,0,Positive,60-69
+Uzbekistan,76,Male,152.03,69.33,Unhealthy,0,129,0,100,Normal,Normal,30,87,1,Negative,70-79
+Bangladesh,29,Male,193.58,83.12,Unhealthy,1,166,1,81,Normal,Normal,22.18,89,1,Positive,20-29
+USA,49,Male,162.83,67.35,Unhealthy,1,112,1,86,Normal,Borderline high,25.4,66,1,Positive,40-49
+India,44,Female,183.26,69.54,Healthy,0,105,1,84,High,Normal,20.7,85,0,Positive,40-49
+Uzbekistan,58,Male,190.02,57.93,Unhealthy,0,150,0,78,Normal,High,16.05,99,0,Positive,50-59
+Brazil,39,Female,183.13,62.91,Healthy,1,157,0,108,High,Borderline high,18.76,70,1,Positive,30-39
+Russia,24,Male,154.61,80.27,Unhealthy,1,169,0,81,High,Normal,33.58,73,0,Negative,20-29
+Russia,20,Female,179.82,71.66,Healthy,1,120,1,101,High,Normal,22.16,80,1,Negative,20-29
+Uzbekistan,49,Male,177.48,88.72,Unhealthy,1,142,0,94,High,High,28.16,67,1,Positive,40-49
+Bangladesh,68,Female,195.02,92.63,Unhealthy,0,114,1,108,Normal,Borderline high,24.36,62,1,Negative,60-69
+India,22,Male,170.21,77.08,Healthy,0,133,1,87,Normal,Normal,26.61,87,1,Negative,20-29
+Russia,64,Male,166.05,87.91,Healthy,1,101,1,84,Normal,Borderline high,31.88,88,0,Positive,60-69
+India,33,Male,187.49,65.35,Unhealthy,1,179,0,101,High,Borderline high,18.59,82,1,Negative,30-39
+Russia,75,Female,170.63,70.75,Healthy,1,98,0,75,High,Normal,24.3,77,1,Negative,70-79
+USA,49,Male,182.3,85.64,Unhealthy,1,101,1,104,High,Borderline high,25.77,94,1,Negative,40-49
+Bangladesh,69,Female,182.32,69.31,Unhealthy,1,158,1,103,High,Normal,20.85,72,1,Negative,60-69
+USA,23,Female,194.4,79.43,Healthy,1,143,0,107,High,Borderline high,21.02,71,1,Positive,20-29
+Russia,37,Male,179.93,59.27,Healthy,0,143,0,74,High,Normal,18.31,64,1,Negative,30-39
+Brazil,56,Male,175.11,79.99,Unhealthy,0,117,0,87,Normal,High,26.09,98,1,Positive,50-59
+Brazil,44,Male,156.94,93.08,Unhealthy,0,145,1,85,Normal,Normal,37.79,70,0,Positive,40-49
+USA,67,Female,155.79,93.43,Healthy,1,158,1,77,Normal,Normal,38.5,70,0,Negative,60-69
+Brazil,20,Male,157.72,86.22,Unhealthy,1,166,1,94,Normal,Normal,34.66,90,0,Positive,20-29
+Russia,72,Female,158.59,87.29,Healthy,1,147,0,101,Normal,Borderline high,34.7,90,0,Negative,70-79
+Uzbekistan,65,Female,181.89,77.9,Unhealthy,0,167,0,95,Normal,High,23.54,72,1,Positive,60-69
+USA,34,Male,187.05,79.23,Unhealthy,1,164,0,91,Normal,Borderline high,22.65,73,0,Negative,30-39
+Azerbaijan,28,Male,176.5,56.68,Healthy,1,131,1,100,Normal,Borderline high,18.2,84,0,Negative,20-29
+Bangladesh,34,Male,191.45,72.19,Healthy,0,127,1,79,High,Normal,19.7,92,0,Positive,30-39
+Brazil,68,Male,199.56,72.54,Healthy,1,157,0,81,High,Borderline high,18.21,92,1,Negative,60-69
+Brazil,76,Male,191,97.92,Unhealthy,0,142,1,97,High,Normal,26.84,74,0,Negative,70-79
+Tajikistan,43,Male,184.74,71.55,Unhealthy,0,122,0,75,High,High,20.96,75,0,Negative,40-49
+China,23,Female,176.62,77.47,Healthy,1,160,1,89,High,Borderline high,24.83,97,0,Negative,20-29
+USA,31,Female,172.44,76.66,Unhealthy,0,145,0,74,High,Borderline high,25.78,65,0,Positive,30-39
+Indonesia,78,Female,154.22,81.84,Healthy,1,161,1,92,High,Borderline high,34.41,84,1,Positive,70-79
+Brazil,77,Male,169.97,87.41,Unhealthy,0,140,1,78,Normal,Normal,30.26,74,0,Positive,70-79
+Bangladesh,56,Female,195.51,61.25,Unhealthy,1,163,0,98,Normal,Normal,16.02,63,1,Negative,50-59
+Azerbaijan,56,Female,190.4,76.44,Unhealthy,0,132,0,85,High,Borderline high,21.08,63,0,Positive,50-59
+Brazil,62,Female,160.8,91.3,Healthy,1,104,0,91,Normal,Borderline high,35.31,89,0,Negative,60-69
+Azerbaijan,79,Female,173.33,73.16,Unhealthy,0,127,0,77,Normal,High,24.35,93,0,Negative,70-79
+Russia,25,Female,190.84,63.92,Healthy,0,104,0,89,Normal,High,17.55,86,1,Negative,20-29
+Russia,58,Male,153.37,82.74,Healthy,0,94,1,83,Normal,High,35.17,90,0,Positive,50-59
+China,75,Male,169.37,91.19,Unhealthy,1,172,0,108,Normal,High,31.79,91,1,Positive,70-79
+Uzbekistan,65,Female,192.59,53.16,Unhealthy,1,143,0,106,High,High,14.33,98,1,Positive,60-69
+Indonesia,43,Female,170.19,88.84,Healthy,0,140,0,103,Normal,Normal,30.67,68,1,Positive,40-49
+Tajikistan,30,Female,153.88,91.08,Unhealthy,1,99,1,80,High,High,38.47,67,1,Negative,30-39
+China,32,Male,177.13,73.08,Unhealthy,0,101,0,109,High,High,23.29,73,0,Positive,30-39
+India,53,Male,193.09,99.17,Unhealthy,1,93,0,102,High,Borderline high,26.6,92,0,Positive,50-59
+Tajikistan,44,Female,179.51,89.34,Healthy,0,107,0,100,Normal,Normal,27.72,82,0,Positive,40-49
+USA,26,Male,161.31,88.68,Healthy,1,169,1,103,Normal,Normal,34.08,80,0,Negative,20-29
+Bangladesh,71,Male,169.21,87.39,Unhealthy,0,125,1,76,High,High,30.52,71,0,Negative,70-79
+India,23,Female,172.51,57.53,Healthy,0,114,0,92,High,High,19.33,61,1,Positive,20-29
+India,78,Male,178.96,60.86,Healthy,0,176,1,76,High,Borderline high,19,72,1,Positive,70-79
+China,27,Male,187.97,73.2,Unhealthy,0,165,0,94,Normal,Borderline high,20.72,63,1,Positive,20-29
+Uzbekistan,39,Female,154.94,63.2,Unhealthy,1,125,1,72,High,Borderline high,26.33,79,0,Negative,30-39
+China,48,Male,194.48,70.76,Unhealthy,0,156,0,107,High,High,18.71,73,0,Positive,40-49
+USA,73,Male,150.62,94.42,Unhealthy,1,98,1,89,High,Borderline high,41.62,89,1,Positive,70-79
+Brazil,72,Female,168.5,91.22,Healthy,1,150,0,103,High,High,32.13,88,0,Positive,70-79
+Brazil,70,Male,151.37,81.5,Unhealthy,0,142,0,99,Normal,Normal,35.57,67,0,Negative,70-79
+Uzbekistan,64,Male,169.65,92.91,Healthy,1,107,1,86,High,High,32.28,71,1,Negative,60-69
+USA,65,Female,176.29,89.19,Healthy,1,132,0,79,High,Borderline high,28.7,97,1,Positive,60-69
+Uzbekistan,29,Female,175.58,71.45,Unhealthy,1,124,0,104,High,Normal,23.18,85,0,Positive,20-29
+Azerbaijan,62,Female,158.28,60.05,Healthy,0,152,0,89,High,High,23.97,61,1,Negative,60-69
+Brazil,53,Male,182.29,75.71,Healthy,1,167,0,87,High,Normal,22.78,99,1,Negative,50-59
+India,76,Female,152.24,86.81,Healthy,1,93,1,96,High,Normal,37.46,73,0,Negative,70-79
+Indonesia,45,Male,188.1,71.82,Unhealthy,0,130,0,105,Normal,Normal,20.3,65,0,Negative,40-49
+Bangladesh,60,Female,197.33,83.34,Healthy,0,134,1,92,High,High,21.4,99,1,Negative,60-69
+USA,68,Male,166.99,54.72,Unhealthy,1,139,1,101,Normal,Borderline high,19.62,90,0,Positive,60-69
+Tajikistan,77,Female,175.86,87.4,Unhealthy,0,168,1,79,Normal,High,28.26,76,1,Positive,70-79
+Uzbekistan,22,Female,168.95,90.64,Healthy,1,117,1,80,High,Borderline high,31.75,84,1,Positive,20-29
+Bangladesh,75,Female,150.34,85.34,Healthy,1,131,0,107,Normal,High,37.76,91,0,Positive,70-79
+Tajikistan,25,Female,169.29,98.36,Unhealthy,1,169,0,75,High,High,34.32,71,0,Negative,20-29
+Bangladesh,24,Male,189.59,91.33,Healthy,0,165,1,103,Normal,High,25.41,72,1,Negative,20-29
+Indonesia,24,Female,179.8,95.15,Healthy,1,158,0,105,High,Borderline high,29.43,78,1,Negative,20-29
+Tajikistan,73,Female,155.06,96.68,Unhealthy,0,90,1,106,Normal,High,40.21,84,0,Negative,70-79
+China,66,Male,192.36,90.07,Unhealthy,0,128,0,86,Normal,Normal,24.34,90,0,Negative,60-69
+Russia,42,Female,176.55,83.71,Healthy,1,179,0,109,High,High,26.86,96,0,Positive,40-49
+China,68,Male,192.09,50.29,Unhealthy,0,106,0,109,Normal,Normal,13.63,84,1,Positive,60-69
+Brazil,28,Female,179.01,73.29,Unhealthy,0,177,1,81,Normal,Borderline high,22.87,75,1,Positive,20-29
+Russia,54,Female,177.98,78.56,Unhealthy,0,124,1,90,Normal,Borderline high,24.8,97,0,Positive,50-59
+China,39,Female,155.26,65.2,Unhealthy,0,135,0,109,Normal,High,27.05,82,0,Positive,30-39
+Russia,77,Male,158.37,65.91,Unhealthy,0,131,1,88,Normal,High,26.28,73,0,Negative,70-79
+Russia,68,Female,198.6,98.06,Unhealthy,1,128,1,72,High,High,24.86,65,1,Negative,60-69
+India,78,Female,161.42,94.59,Unhealthy,0,179,0,87,Normal,Normal,36.3,84,0,Negative,70-79
+Uzbekistan,61,Female,198.87,92.46,Unhealthy,1,138,1,88,Normal,Borderline high,23.38,82,1,Negative,60-69
+Uzbekistan,54,Male,176.6,70.3,Unhealthy,1,151,0,75,High,Normal,22.54,71,0,Negative,50-59
+India,69,Male,156.79,50.68,Unhealthy,1,127,0,85,High,Normal,20.62,72,1,Positive,60-69
+Bangladesh,37,Female,154.97,54.01,Unhealthy,1,112,0,77,High,High,22.49,95,1,Positive,30-39
+Azerbaijan,36,Male,160.44,65.61,Healthy,1,111,1,87,Normal,High,25.49,98,0,Positive,30-39
+Bangladesh,43,Female,196.28,50.79,Unhealthy,1,93,0,108,Normal,Normal,13.18,93,1,Negative,40-49
+Tajikistan,22,Female,170.71,50.86,Unhealthy,0,138,0,81,Normal,Normal,17.45,65,0,Negative,20-29
+Tajikistan,51,Female,169.77,95.83,Unhealthy,0,148,1,79,Normal,High,33.25,97,1,Negative,50-59
+Russia,54,Female,165.66,85.31,Healthy,0,162,1,76,High,High,31.09,99,1,Negative,50-59
+China,57,Female,157.35,65.45,Unhealthy,1,157,1,70,High,Normal,26.43,67,0,Positive,50-59
+China,32,Female,174.39,56.63,Healthy,0,160,1,105,Normal,High,18.62,67,1,Negative,30-39
+Uzbekistan,75,Female,156.5,75.58,Unhealthy,0,176,0,90,Normal,High,30.86,99,0,Positive,70-79
+USA,66,Male,191.77,50.27,Unhealthy,0,91,1,106,Normal,Normal,13.67,92,0,Negative,60-69
+Bangladesh,44,Male,168.52,96.92,Healthy,1,138,1,93,Normal,Normal,34.13,93,0,Positive,40-49
+Brazil,28,Male,168.74,70.74,Unhealthy,0,177,1,94,High,Borderline high,24.84,74,0,Negative,20-29
+Indonesia,23,Male,173.7,70.12,Healthy,1,120,1,76,High,Normal,23.24,95,1,Negative,20-29
+China,33,Male,172.21,69.53,Healthy,0,129,0,86,Normal,High,23.45,94,1,Positive,30-39
+Indonesia,56,Male,199.74,53.47,Unhealthy,1,137,1,98,High,Normal,13.4,81,0,Positive,50-59
+Russia,53,Male,177.27,81.92,Unhealthy,1,140,0,99,Normal,Normal,26.07,82,0,Negative,50-59
+Indonesia,30,Female,154.41,86.65,Unhealthy,1,132,1,76,Normal,Normal,36.34,99,1,Positive,30-39
+Brazil,60,Female,180.34,83.81,Unhealthy,0,144,0,102,High,Borderline high,25.77,81,1,Negative,60-69
+India,75,Female,157.58,56.92,Healthy,0,177,0,76,Normal,Borderline high,22.92,64,0,Negative,70-79
+Brazil,22,Female,151.55,78.94,Healthy,1,138,1,93,High,High,34.37,90,1,Positive,20-29
+Indonesia,78,Male,198.54,78.47,Unhealthy,0,179,0,80,Normal,Borderline high,19.91,72,0,Negative,70-79
+Brazil,47,Male,188.68,93.42,Healthy,1,169,1,78,High,Normal,26.24,87,1,Negative,40-49
+Azerbaijan,48,Female,199.01,68.96,Healthy,1,146,0,81,Normal,Borderline high,17.41,79,0,Positive,40-49
+Russia,28,Female,173.89,68.57,Healthy,0,166,0,104,High,Normal,22.68,92,1,Negative,20-29
+Bangladesh,22,Male,176.61,80.93,Healthy,0,104,0,73,Normal,Borderline high,25.94,75,1,Negative,20-29
+India,44,Female,158.42,81.65,Healthy,0,116,1,105,Normal,Borderline high,32.54,88,0,Negative,40-49
+China,53,Female,162.35,73.46,Unhealthy,1,157,0,97,High,Borderline high,27.87,82,0,Negative,50-59
+Tajikistan,31,Female,191.93,72.15,Healthy,1,169,1,82,Normal,Normal,19.59,83,0,Positive,30-39
+Bangladesh,61,Female,167.81,74.71,Unhealthy,0,153,0,92,High,Borderline high,26.53,93,1,Positive,60-69
+Tajikistan,28,Male,191.34,93.05,Healthy,1,119,0,88,High,Normal,25.42,66,0,Positive,20-29
+Russia,34,Female,185.45,73.06,Unhealthy,0,125,0,106,Normal,Normal,21.24,97,0,Negative,30-39
+India,59,Female,158.86,97,Healthy,1,156,0,108,Normal,High,38.44,96,1,Positive,50-59
+Uzbekistan,44,Male,175.37,75.2,Healthy,0,175,0,93,Normal,Borderline high,24.45,63,0,Positive,40-49
+China,24,Male,183.87,97.46,Unhealthy,0,175,0,85,Normal,High,28.83,93,0,Positive,20-29
+Azerbaijan,30,Female,161.75,91.64,Unhealthy,1,138,1,102,High,High,35.03,81,0,Negative,30-39
+Uzbekistan,78,Male,191.53,68.12,Unhealthy,0,165,1,81,Normal,Normal,18.57,64,1,Positive,70-79
+Russia,53,Female,177.24,93.18,Unhealthy,0,144,1,103,Normal,Borderline high,29.66,82,1,Positive,50-59
+Bangladesh,43,Female,158.26,55.5,Healthy,1,174,0,76,Normal,Normal,22.16,74,1,Negative,40-49
+Azerbaijan,79,Male,179.15,96.25,Healthy,0,145,1,80,High,Normal,29.99,90,0,Negative,70-79
+Brazil,34,Female,199.99,81.58,Healthy,1,157,0,100,Normal,Borderline high,20.4,68,1,Negative,30-39
+Indonesia,57,Female,157.53,52.72,Unhealthy,0,133,1,98,High,Normal,21.25,84,0,Negative,50-59
+Azerbaijan,27,Female,190.84,82.21,Healthy,1,120,1,82,Normal,Borderline high,22.57,84,0,Negative,20-29
+Russia,78,Female,160.37,98.71,Healthy,0,147,0,100,High,Borderline high,38.38,80,0,Negative,70-79
+USA,24,Male,189.12,53.49,Unhealthy,0,176,0,71,Normal,Normal,14.96,68,1,Positive,20-29
+Indonesia,67,Male,186.73,77.73,Unhealthy,0,142,1,108,Normal,Normal,22.29,97,1,Positive,60-69
+Tajikistan,45,Female,165.02,87.39,Healthy,0,173,1,84,High,High,32.09,81,0,Negative,40-49
+China,37,Male,166.29,90.51,Unhealthy,1,168,1,80,Normal,Normal,32.73,82,0,Negative,30-39
+Tajikistan,25,Female,189.63,70.69,Healthy,1,112,1,103,Normal,Borderline high,19.66,63,1,Positive,20-29
+Azerbaijan,56,Female,173.07,60.21,Healthy,1,117,0,108,Normal,High,20.1,88,1,Negative,50-59
+Tajikistan,79,Female,186.54,52.12,Unhealthy,1,105,1,73,High,Borderline high,14.98,74,1,Negative,70-79
+Russia,67,Female,157.4,78.99,Healthy,1,126,0,80,Normal,High,31.88,60,0,Positive,60-69
+Brazil,32,Female,192.63,72.65,Unhealthy,1,110,0,98,High,Normal,19.58,89,1,Negative,30-39
+Bangladesh,47,Male,185.54,97.44,Unhealthy,1,168,1,71,High,Normal,28.3,88,1,Negative,40-49
+China,24,Female,195.35,53.03,Healthy,0,106,0,85,High,Normal,13.9,79,1,Positive,20-29
+Tajikistan,32,Male,156.62,84.27,Healthy,0,126,1,108,Normal,Borderline high,34.35,92,0,Positive,30-39
+Tajikistan,36,Male,179.65,51.25,Healthy,0,166,0,82,High,High,15.88,95,1,Positive,30-39
+Azerbaijan,69,Female,179.96,58.57,Unhealthy,0,108,0,106,High,Borderline high,18.09,81,0,Positive,60-69
+Bangladesh,59,Female,167.67,72.68,Healthy,1,119,1,86,Normal,High,25.85,72,0,Positive,50-59
+Uzbekistan,64,Female,172.92,72.74,Unhealthy,1,134,0,90,High,Normal,24.33,66,0,Negative,60-69
+Tajikistan,51,Female,151.9,84.29,Healthy,1,107,0,88,High,Borderline high,36.53,67,1,Negative,50-59
+Russia,48,Female,187.29,95.51,Healthy,0,167,1,76,Normal,Normal,27.23,87,1,Negative,40-49
+USA,70,Male,177.47,81.95,Unhealthy,1,151,0,107,Normal,Borderline high,26.02,68,1,Negative,70-79
+China,77,Female,152.89,97.68,Healthy,0,125,0,77,High,Normal,41.79,84,0,Negative,70-79
+Tajikistan,22,Female,184.04,94.08,Healthy,1,173,1,82,Normal,Borderline high,27.78,75,1,Positive,20-29
+Russia,75,Male,173.34,79.22,Healthy,1,141,1,106,Normal,Borderline high,26.37,69,0,Negative,70-79
+Russia,59,Male,151.72,91.69,Healthy,1,108,0,71,Normal,High,39.83,70,1,Negative,50-59
+China,53,Female,198.48,82.13,Healthy,1,133,0,80,High,Normal,20.85,90,1,Negative,50-59
+Uzbekistan,59,Male,197.46,53.93,Healthy,0,96,0,93,High,High,13.83,71,1,Negative,50-59
+Russia,46,Female,175.65,87.03,Healthy,0,133,1,75,Normal,High,28.21,90,1,Negative,40-49
+USA,32,Male,154.68,54.75,Unhealthy,1,157,0,95,High,Normal,22.88,73,0,Positive,30-39
+Russia,64,Male,187.73,79.7,Healthy,0,123,0,76,Normal,Borderline high,22.62,91,0,Negative,60-69
+Russia,52,Female,174.6,85.13,Unhealthy,1,155,0,108,Normal,High,27.93,76,0,Negative,50-59
+Russia,25,Male,165.12,53.33,Unhealthy,1,158,0,88,Normal,Normal,19.56,94,0,Negative,20-29
+Brazil,43,Male,174.57,61.54,Unhealthy,1,144,0,75,Normal,Borderline high,20.19,60,1,Negative,40-49
+Brazil,38,Male,176.12,95.78,Healthy,1,99,0,98,Normal,High,30.88,88,0,Negative,30-39
+Uzbekistan,35,Male,178.14,80.82,Unhealthy,0,131,1,108,High,High,25.47,63,0,Negative,30-39
+Tajikistan,59,Male,172.06,62.31,Unhealthy,1,130,1,71,High,High,21.05,82,0,Positive,50-59
+Russia,47,Male,180.29,84.53,Healthy,1,166,0,88,High,Borderline high,26.01,87,1,Negative,40-49
+Bangladesh,52,Female,195.94,79.84,Healthy,0,158,0,73,High,High,20.8,75,0,Positive,50-59
+Tajikistan,78,Female,168.11,75.08,Unhealthy,1,99,1,75,Normal,Borderline high,26.57,71,0,Positive,70-79
+Uzbekistan,78,Male,186.29,98.81,Healthy,0,99,1,106,Normal,High,28.47,80,1,Negative,70-79
+India,67,Female,194.72,84.17,Healthy,1,149,1,97,High,Normal,22.2,76,1,Negative,60-69
+Tajikistan,60,Female,172.8,68.77,Healthy,1,140,0,99,High,High,23.03,99,0,Negative,60-69
+Tajikistan,32,Female,172.17,90,Healthy,1,110,0,76,Normal,Normal,30.36,72,0,Positive,30-39
+Indonesia,62,Male,180.11,94.23,Unhealthy,1,97,0,78,Normal,Normal,29.05,91,1,Negative,60-69
+Azerbaijan,64,Female,179.57,56.26,Healthy,1,154,0,94,Normal,Normal,17.45,96,0,Negative,60-69
+Indonesia,44,Male,190.33,60.03,Healthy,1,167,1,102,High,Borderline high,16.57,74,1,Negative,40-49
+USA,72,Female,173.82,60.81,Healthy,0,174,1,70,Normal,Normal,20.13,71,0,Positive,70-79
+Brazil,61,Male,199.81,84.56,Unhealthy,1,119,1,75,Normal,High,21.18,74,0,Positive,60-69
+Brazil,55,Male,152.97,80.15,Unhealthy,0,174,1,87,High,Borderline high,34.25,93,0,Negative,50-59
+Azerbaijan,46,Female,150.16,80.95,Healthy,0,138,0,79,High,Normal,35.9,65,0,Positive,40-49
+China,57,Female,182.01,97.04,Healthy,1,98,0,97,High,Borderline high,29.29,76,0,Negative,50-59
+China,79,Male,164.92,88.8,Unhealthy,0,106,1,80,Normal,Borderline high,32.65,79,1,Positive,70-79
+Uzbekistan,26,Female,162.02,56.4,Healthy,1,158,1,102,Normal,Borderline high,21.48,68,1,Negative,20-29
+Azerbaijan,24,Female,165.59,67.38,Healthy,0,147,1,70,High,High,24.57,64,0,Positive,20-29
+Tajikistan,62,Female,162.8,71.77,Unhealthy,1,146,1,82,Normal,Normal,27.08,82,0,Negative,60-69
+China,64,Male,151.54,69.8,Healthy,0,151,1,106,Normal,Borderline high,30.39,92,0,Negative,60-69
+Russia,77,Male,198.58,83.47,Healthy,0,141,0,89,Normal,Borderline high,21.17,97,1,Positive,70-79
+Bangladesh,76,Female,161.04,94.59,Unhealthy,1,150,0,70,High,Borderline high,36.48,73,1,Positive,70-79
+Tajikistan,70,Female,186.7,65.3,Unhealthy,0,129,1,72,High,Normal,18.73,76,1,Positive,70-79
+USA,50,Female,188.13,77.59,Healthy,1,127,1,87,Normal,Borderline high,21.92,78,1,Positive,50-59
+Russia,42,Male,196.46,89.47,Unhealthy,1,132,1,83,Normal,Borderline high,23.18,92,1,Positive,40-49
+Russia,61,Male,151.53,70.81,Healthy,1,152,0,100,Normal,High,30.84,60,1,Negative,60-69
+Azerbaijan,29,Female,193.6,58.41,Healthy,1,108,0,96,Normal,Normal,15.58,72,1,Negative,20-29
+Uzbekistan,51,Female,176.36,73.75,Healthy,1,139,0,86,High,High,23.71,86,1,Positive,50-59
+USA,62,Female,181.63,52.76,Unhealthy,0,122,1,98,High,Normal,15.99,65,0,Negative,60-69
+China,72,Female,182.22,97.12,Unhealthy,0,102,0,105,Normal,Normal,29.25,65,1,Negative,70-79
+Azerbaijan,49,Female,190.99,53.74,Healthy,0,167,1,106,Normal,Normal,14.73,92,1,Positive,40-49
+China,58,Female,166.67,71.92,Healthy,1,151,0,95,High,High,25.89,89,1,Negative,50-59
+Azerbaijan,50,Male,186.65,76.49,Unhealthy,0,132,0,86,Normal,High,21.96,94,1,Negative,50-59
+Azerbaijan,37,Female,176.43,99.27,Unhealthy,0,138,0,91,High,High,31.89,82,0,Positive,30-39
+Azerbaijan,55,Male,189.67,58.3,Unhealthy,0,125,1,94,Normal,High,16.21,69,1,Positive,50-59
+Uzbekistan,21,Female,199.53,55.72,Healthy,0,99,1,71,High,Borderline high,14,78,0,Negative,20-29
+Azerbaijan,33,Female,160.03,50.44,Unhealthy,0,95,0,91,Normal,Borderline high,19.69,87,0,Positive,30-39
+India,32,Male,199.73,57.78,Unhealthy,1,146,1,74,Normal,Borderline high,14.48,82,0,Negative,30-39
+Bangladesh,48,Male,154.49,60.36,Healthy,1,90,1,73,High,Normal,25.29,63,1,Positive,40-49
+China,31,Male,150.12,81.53,Healthy,0,160,1,105,High,Borderline high,36.18,79,1,Positive,30-39
+Tajikistan,58,Male,152.21,60.99,Healthy,1,147,1,75,Normal,Normal,26.32,78,1,Positive,50-59
+Indonesia,21,Female,167.09,51.03,Unhealthy,1,110,1,90,Normal,High,18.28,86,0,Positive,20-29
+USA,51,Male,181.65,91.33,Healthy,0,169,1,82,High,Normal,27.68,93,0,Negative,50-59
+Brazil,32,Female,153.45,68.28,Healthy,0,145,1,106,High,Normal,29,63,0,Positive,30-39
+Uzbekistan,65,Male,150.28,67.68,Healthy,1,176,0,94,Normal,Borderline high,29.97,97,0,Positive,60-69
+Tajikistan,46,Female,196.85,65.12,Healthy,0,109,1,95,Normal,High,16.81,66,1,Negative,40-49
+Russia,68,Female,191.1,98.77,Unhealthy,1,143,1,108,High,High,27.05,66,1,Negative,60-69
+India,60,Female,190.46,58.51,Healthy,1,114,0,89,High,Borderline high,16.13,85,1,Negative,60-69
+Brazil,36,Female,194.22,94.91,Unhealthy,0,117,0,102,High,High,25.16,85,0,Negative,30-39
+Indonesia,59,Female,185,88.84,Unhealthy,1,94,0,83,High,High,25.96,78,0,Positive,50-59
+Tajikistan,50,Female,155.22,53.82,Healthy,1,110,0,105,High,High,22.34,68,1,Negative,50-59
+Brazil,53,Male,169.96,99.34,Healthy,1,107,1,86,Normal,Borderline high,34.39,79,1,Positive,50-59
+Tajikistan,79,Female,186.16,63.57,Unhealthy,0,136,0,90,Normal,High,18.34,75,0,Negative,70-79
+India,43,Male,164.02,54.93,Healthy,0,159,0,85,High,Normal,20.42,76,1,Positive,40-49
+Indonesia,64,Male,184.37,91.47,Healthy,0,146,1,85,Normal,Normal,26.91,81,1,Negative,60-69
+Russia,54,Female,151.22,85.33,Healthy,0,108,1,89,Normal,High,37.31,72,0,Positive,50-59
+Azerbaijan,67,Male,165.31,80.86,Unhealthy,1,154,1,98,High,Borderline high,29.59,71,0,Positive,60-69
+China,25,Female,177.46,57.8,Healthy,0,92,0,97,Normal,Borderline high,18.35,69,0,Negative,20-29
+Russia,38,Male,181.6,73.92,Healthy,0,131,1,77,Normal,Borderline high,22.41,60,1,Positive,30-39
+Azerbaijan,49,Female,178.85,89.03,Healthy,0,110,0,93,Normal,High,27.83,91,0,Positive,40-49
+Uzbekistan,26,Male,184.89,65.18,Unhealthy,0,129,1,72,Normal,High,19.07,89,0,Negative,20-29
+Bangladesh,29,Female,150.3,65.58,Unhealthy,1,156,1,94,High,Normal,29.03,67,1,Positive,20-29
+USA,60,Female,155.05,50.16,Unhealthy,1,114,0,88,Normal,Borderline high,20.86,80,0,Negative,60-69
+USA,51,Female,193.45,58.71,Healthy,1,144,1,102,Normal,Normal,15.69,81,1,Positive,50-59
+China,53,Female,184.09,93.77,Unhealthy,0,173,1,71,Normal,Normal,27.67,77,0,Positive,50-59
+Indonesia,47,Male,155.65,72.09,Healthy,0,141,1,84,Normal,Borderline high,29.76,61,0,Negative,40-49
+India,79,Female,192.1,99.21,Healthy,1,133,1,91,Normal,High,26.88,68,1,Negative,70-79
+Indonesia,34,Male,162.11,69.79,Unhealthy,0,174,1,79,Normal,High,26.55,62,1,Negative,30-39
+India,49,Male,173.91,85.76,Healthy,0,145,0,87,High,Normal,28.35,85,0,Positive,40-49
+Indonesia,56,Male,157.26,64.1,Unhealthy,1,144,0,91,Normal,Normal,25.92,80,0,Positive,50-59
+Bangladesh,48,Female,185.51,68.19,Healthy,1,176,1,96,Normal,Normal,19.82,89,0,Negative,40-49
+Uzbekistan,41,Male,183.34,59.54,Unhealthy,0,159,0,82,High,Normal,17.71,87,0,Positive,40-49
+Uzbekistan,23,Male,160.56,67.35,Healthy,0,166,0,102,Normal,Borderline high,26.13,95,0,Negative,20-29
+Azerbaijan,39,Male,193.17,77.36,Healthy,0,176,0,74,Normal,Normal,20.73,85,0,Positive,30-39
+Brazil,51,Female,170.07,99.59,Healthy,1,162,1,95,Normal,Normal,34.43,93,1,Negative,50-59
+Uzbekistan,55,Female,164.63,83.21,Healthy,1,170,1,82,Normal,High,30.7,67,1,Positive,50-59
+Uzbekistan,69,Male,157.62,59.96,Healthy,1,155,1,96,High,High,24.14,69,1,Negative,60-69
+Russia,23,Female,163.31,52.25,Unhealthy,1,108,0,83,Normal,High,19.59,73,1,Positive,20-29
+Russia,46,Female,151.1,56.32,Healthy,0,172,0,93,High,Borderline high,24.67,99,0,Negative,40-49
+Azerbaijan,36,Male,179.16,78.13,Unhealthy,1,96,1,72,Normal,Borderline high,24.34,74,1,Positive,30-39
+Brazil,31,Male,192.11,88.26,Unhealthy,1,152,1,99,Normal,High,23.91,76,1,Positive,30-39
+China,41,Female,177.45,97.02,Unhealthy,0,131,0,104,High,High,30.81,77,0,Positive,40-49
+Russia,36,Male,160.96,50.79,Healthy,0,131,0,83,Normal,Normal,19.6,91,1,Negative,30-39
+China,29,Female,151.68,76.14,Healthy,0,148,1,81,High,Normal,33.09,97,0,Positive,20-29
+Tajikistan,73,Female,160.73,73.54,Healthy,1,109,0,97,High,Borderline high,28.47,82,0,Positive,70-79
+Russia,20,Female,170.81,82.8,Unhealthy,0,162,0,98,High,Borderline high,28.38,82,0,Positive,20-29
+Bangladesh,41,Female,187.98,77.98,Healthy,0,106,0,86,Normal,Normal,22.07,94,0,Negative,40-49
+Brazil,45,Female,159.39,84.35,Healthy,1,116,0,109,Normal,High,33.2,98,0,Positive,40-49
+Azerbaijan,75,Female,185.99,82.9,Unhealthy,1,136,0,90,Normal,Normal,23.97,74,0,Negative,70-79
+Tajikistan,78,Male,193.35,55.85,Unhealthy,0,91,0,92,Normal,Borderline high,14.94,83,1,Positive,70-79
+Brazil,37,Male,172.7,89.99,Unhealthy,1,152,0,89,High,Borderline high,30.17,87,1,Negative,30-39
+Bangladesh,69,Female,191.07,56.16,Unhealthy,0,151,1,80,Normal,Normal,15.38,75,0,Negative,60-69
+Brazil,33,Female,177.73,84.93,Unhealthy,0,108,1,103,Normal,Normal,26.88,75,1,Positive,30-39
+Bangladesh,66,Female,181.85,70.81,Healthy,1,106,0,79,High,Normal,21.41,99,1,Negative,60-69
+Bangladesh,48,Male,176.31,75.69,Healthy,0,158,0,79,High,Borderline high,24.35,98,1,Negative,40-49
+China,31,Female,173.16,95.16,Unhealthy,1,128,0,75,Normal,High,31.74,65,1,Positive,30-39
+Indonesia,55,Male,161.73,94.49,Healthy,1,171,1,105,High,Normal,36.13,61,0,Negative,50-59
+Tajikistan,78,Female,165.16,90.89,Healthy,1,160,1,93,High,Borderline high,33.32,72,1,Negative,70-79
+Brazil,54,Female,164.5,75.51,Healthy,0,170,0,81,High,Borderline high,27.9,68,0,Negative,50-59
+India,71,Male,178.16,86.81,Unhealthy,1,128,1,92,High,Borderline high,27.35,93,0,Negative,70-79
+Tajikistan,31,Male,156,75.64,Healthy,1,125,0,96,High,Normal,31.08,76,1,Positive,30-39
+Indonesia,26,Female,195.84,93.48,Unhealthy,0,129,0,106,Normal,Normal,24.37,86,0,Negative,20-29
+Tajikistan,48,Female,186.03,70.14,Unhealthy,0,134,0,75,Normal,High,20.27,88,0,Negative,40-49
+Uzbekistan,30,Female,170.07,98.51,Healthy,0,93,0,70,Normal,Borderline high,34.06,96,0,Positive,30-39
+India,52,Male,157.93,96.62,Unhealthy,0,114,0,75,Normal,Normal,38.74,81,0,Positive,50-59
+Indonesia,25,Male,194.1,87.08,Healthy,1,158,0,91,Normal,Borderline high,23.11,83,0,Negative,20-29
+China,66,Male,191.19,63.97,Healthy,1,119,0,93,Normal,Borderline high,17.5,66,0,Positive,60-69
+Brazil,34,Male,186.09,56.58,Unhealthy,1,165,1,94,Normal,High,16.34,93,0,Positive,30-39
+USA,51,Male,163.58,92.74,Healthy,0,157,0,84,High,Normal,34.66,71,1,Positive,50-59
+Indonesia,70,Male,170.12,58.27,Healthy,0,177,1,95,Normal,Normal,20.13,82,1,Positive,70-79
+Azerbaijan,30,Female,155.14,92.71,Healthy,1,118,0,77,Normal,Borderline high,38.52,74,0,Positive,30-39
+Brazil,77,Female,159.45,74.54,Unhealthy,0,162,0,93,Normal,Borderline high,29.32,92,0,Positive,70-79
+Indonesia,42,Male,189.15,70.33,Healthy,0,157,1,107,High,High,19.66,72,1,Positive,40-49
+Uzbekistan,45,Female,185.75,95.16,Unhealthy,1,140,1,75,Normal,High,27.58,82,1,Positive,40-49
+USA,53,Female,179.67,80.19,Unhealthy,1,113,0,104,Normal,High,24.84,97,1,Positive,50-59
+Uzbekistan,65,Male,194.79,78.83,Healthy,0,103,1,70,High,High,20.78,91,1,Negative,60-69
+USA,53,Female,179.16,77.94,Healthy,0,158,0,105,Normal,High,24.28,94,0,Negative,50-59
+Azerbaijan,48,Male,173.35,68.56,Unhealthy,0,107,0,81,Normal,High,22.82,60,0,Negative,40-49
+Brazil,23,Male,167.02,89.28,Unhealthy,1,131,1,107,High,Borderline high,32.01,64,0,Negative,20-29
+China,36,Female,197.02,62.64,Healthy,1,146,1,80,Normal,High,16.14,72,1,Negative,30-39
+Uzbekistan,54,Male,154.14,96.94,Healthy,1,172,1,81,High,Borderline high,40.81,64,1,Positive,50-59
+Uzbekistan,32,Male,196.54,94.7,Unhealthy,1,101,1,108,Normal,Borderline high,24.51,91,1,Positive,30-39
+Bangladesh,60,Male,191.34,66.87,Unhealthy,1,171,0,76,Normal,Normal,18.27,80,0,Negative,60-69
+USA,58,Male,156.5,86.47,Unhealthy,0,106,1,80,Normal,Borderline high,35.31,83,1,Negative,50-59
+Russia,34,Male,178.25,78.66,Unhealthy,0,119,1,105,High,Borderline high,24.76,77,1,Positive,30-39
+Brazil,74,Male,193.33,66.88,Unhealthy,0,177,1,100,High,High,17.89,80,1,Negative,70-79
+USA,48,Male,178.59,99.43,Healthy,1,164,1,102,High,Borderline high,31.17,69,0,Positive,40-49
+Bangladesh,48,Male,195.36,51.26,Unhealthy,1,112,1,82,Normal,High,13.43,83,0,Negative,40-49
+Tajikistan,30,Female,197.15,62.63,Unhealthy,1,170,0,87,Normal,High,16.11,99,0,Positive,30-39
+USA,71,Female,171.12,76,Healthy,0,90,0,93,High,High,25.96,80,1,Negative,70-79
+China,51,Female,168.87,76.1,Healthy,1,168,1,78,High,Normal,26.69,84,1,Positive,50-59
+Brazil,21,Male,196.82,79.45,Unhealthy,1,121,1,100,Normal,High,20.51,82,1,Negative,20-29
+Bangladesh,66,Male,183.76,87.58,Unhealthy,0,98,0,79,Normal,Borderline high,25.94,81,0,Negative,60-69
+Tajikistan,33,Female,155.8,81.17,Healthy,1,104,1,71,Normal,High,33.44,63,0,Positive,30-39
+India,39,Female,152.11,80.01,Unhealthy,0,117,0,107,Normal,High,34.58,93,1,Positive,30-39
+Bangladesh,41,Female,178.23,52.68,Unhealthy,1,113,0,84,High,High,16.58,65,0,Negative,40-49
+India,30,Male,196.51,68.83,Healthy,1,149,1,72,Normal,Normal,17.82,87,0,Negative,30-39
+Brazil,46,Female,192.21,61.6,Unhealthy,0,124,0,100,Normal,Borderline high,16.67,90,1,Positive,40-49
+Uzbekistan,22,Female,183.79,63.27,Healthy,0,175,1,75,Normal,Normal,18.73,94,1,Positive,20-29
+Bangladesh,36,Male,156.96,77.72,Healthy,0,116,1,72,Normal,Borderline high,31.55,98,1,Positive,30-39
+Azerbaijan,63,Female,162.71,59.98,Healthy,0,172,0,80,Normal,Normal,22.65,82,0,Negative,60-69
+India,75,Male,193.78,64.7,Healthy,0,165,0,84,Normal,Borderline high,17.23,65,1,Negative,70-79
+China,47,Male,159.14,61.85,Unhealthy,0,109,1,97,Normal,Normal,24.42,75,1,Positive,40-49
+Azerbaijan,48,Male,163.92,97.43,Healthy,1,154,0,79,High,High,36.26,61,1,Negative,40-49
+Indonesia,40,Female,156.48,97.23,Unhealthy,1,174,1,107,High,Normal,39.71,83,1,Negative,40-49
+Indonesia,66,Female,183.81,80.5,Unhealthy,0,138,0,76,High,Normal,23.83,76,0,Positive,60-69
+Tajikistan,35,Male,197.2,96.23,Unhealthy,1,90,0,84,Normal,High,24.74,60,0,Negative,30-39
+Uzbekistan,56,Female,163.45,89.29,Unhealthy,0,99,1,87,High,High,33.42,65,0,Positive,50-59
+Brazil,78,Female,173.77,79.5,Unhealthy,1,136,1,87,Normal,Borderline high,26.33,64,1,Positive,70-79
+Bangladesh,39,Female,181.72,50.32,Healthy,0,148,1,93,Normal,Borderline high,15.24,88,0,Negative,30-39
+Russia,25,Female,199.97,88.63,Healthy,1,151,0,71,Normal,Borderline high,22.16,71,1,Negative,20-29
+China,38,Male,155.24,85.12,Healthy,1,175,1,109,Normal,Normal,35.32,98,0,Positive,30-39
+India,76,Female,174.93,80.76,Healthy,1,107,1,89,High,Borderline high,26.39,62,1,Positive,70-79
+Brazil,24,Male,169.26,88.02,Unhealthy,1,135,0,103,Normal,Normal,30.73,60,0,Positive,20-29
+Azerbaijan,22,Male,193.29,75.65,Healthy,1,121,0,95,Normal,Normal,20.25,86,0,Negative,20-29
+Indonesia,78,Female,173.8,85.2,Unhealthy,0,116,1,76,High,Borderline high,28.21,83,0,Positive,70-79
+China,20,Male,155.55,96.76,Unhealthy,0,107,1,107,High,Borderline high,39.99,78,0,Positive,20-29
+Russia,77,Female,181.72,68.79,Healthy,0,128,1,99,High,Normal,20.83,67,1,Positive,70-79
+Bangladesh,79,Female,188.54,85.41,Healthy,1,138,1,74,Normal,High,24.03,61,0,Negative,70-79
+Tajikistan,57,Male,150.14,73.78,Healthy,0,171,0,80,High,High,32.73,89,0,Negative,50-59
+Russia,34,Male,192.95,83.72,Healthy,1,133,0,70,Normal,Normal,22.49,89,1,Negative,30-39
+China,53,Male,159.3,88.14,Unhealthy,1,161,1,103,Normal,Borderline high,34.73,98,1,Positive,50-59
+Russia,54,Male,177.6,52.27,Unhealthy,1,143,1,70,High,Normal,16.57,91,1,Negative,50-59
+China,68,Female,170.79,82.33,Healthy,0,123,1,88,High,Normal,28.23,60,1,Negative,60-69
+China,44,Female,185.98,61.34,Unhealthy,1,160,0,71,High,Borderline high,17.73,97,1,Negative,40-49
+USA,43,Female,168.56,83.5,Unhealthy,0,125,1,90,Normal,High,29.39,72,1,Positive,40-49
+India,31,Male,193.49,73.42,Unhealthy,0,107,1,89,Normal,Normal,19.61,70,0,Negative,30-39
+Indonesia,37,Male,186.52,88.68,Healthy,1,127,0,92,Normal,High,25.49,69,0,Negative,30-39
+USA,34,Male,182.39,56.17,Unhealthy,1,148,0,90,Normal,High,16.89,85,1,Positive,30-39
+Bangladesh,63,Female,189.81,81.32,Healthy,0,98,1,93,Normal,Borderline high,22.57,79,0,Positive,60-69
+USA,35,Male,187.7,63.92,Healthy,0,162,1,73,Normal,Normal,18.14,76,0,Negative,30-39
+Uzbekistan,46,Female,151.8,92.65,Unhealthy,0,161,0,81,High,Normal,40.21,76,0,Negative,40-49
+Uzbekistan,27,Male,169.74,96.42,Unhealthy,0,140,1,91,Normal,High,33.47,63,1,Positive,20-29
+Indonesia,79,Female,196.54,99.82,Healthy,0,124,1,89,High,High,25.84,64,0,Positive,70-79
+Russia,65,Female,156.29,89.8,Unhealthy,0,171,0,87,High,Borderline high,36.77,82,1,Positive,60-69
+India,44,Male,186.85,87.69,Unhealthy,1,94,0,70,High,High,25.11,69,0,Positive,40-49
+Indonesia,36,Male,198.73,60.78,Healthy,0,103,0,99,High,Borderline high,15.39,87,0,Negative,30-39
+China,48,Female,152.61,66.8,Healthy,0,119,1,102,High,Normal,28.68,92,0,Positive,40-49
+Azerbaijan,72,Female,184.11,73.28,Healthy,0,93,0,93,Normal,Borderline high,21.62,85,1,Negative,70-79
+India,27,Male,173.41,88.67,Healthy,0,128,0,83,Normal,High,29.49,88,0,Negative,20-29
+India,34,Male,178.96,95.75,Unhealthy,1,173,1,105,Normal,Normal,29.9,86,1,Negative,30-39
+China,46,Female,154.27,59.46,Unhealthy,1,153,1,74,Normal,Borderline high,24.98,77,1,Positive,40-49
+China,65,Male,152.15,96.12,Healthy,0,114,0,80,High,Normal,41.52,99,1,Positive,60-69
+Tajikistan,69,Female,183.34,84.78,Healthy,0,117,0,93,High,Borderline high,25.22,69,1,Negative,60-69
+Indonesia,71,Female,191.17,80.54,Healthy,0,165,1,100,High,High,22.04,64,1,Negative,70-79
+China,26,Male,189.1,59.99,Unhealthy,1,155,1,82,Normal,High,16.78,69,0,Negative,20-29
+Uzbekistan,22,Male,177.19,52.78,Healthy,1,167,0,85,Normal,Normal,16.81,80,1,Negative,20-29
+Bangladesh,48,Male,154.99,78.42,Unhealthy,1,111,0,93,Normal,Normal,32.65,83,1,Negative,40-49
+Azerbaijan,63,Male,184.4,82.58,Healthy,1,120,1,82,Normal,Normal,24.28,97,1,Positive,60-69
+Indonesia,72,Male,162.09,60.54,Healthy,1,112,0,93,High,Borderline high,23.04,62,1,Positive,70-79
+Brazil,43,Female,195.55,77.82,Healthy,1,137,1,95,High,High,20.35,99,1,Positive,40-49
+Uzbekistan,79,Female,191.91,92.82,Unhealthy,0,109,0,71,Normal,Normal,25.2,90,0,Negative,70-79
+Russia,77,Male,185.47,91.75,Unhealthy,1,127,1,85,Normal,Normal,26.67,96,1,Negative,70-79
+China,22,Male,197.44,96.37,Unhealthy,1,144,1,107,Normal,Normal,24.72,61,1,Positive,20-29
+Brazil,39,Male,151.57,68.29,Healthy,0,157,0,70,High,Borderline high,29.73,61,0,Positive,30-39
+China,65,Female,186.81,65.9,Unhealthy,1,168,0,80,High,Normal,18.88,98,1,Negative,60-69
+India,34,Male,166.51,87.47,Unhealthy,0,177,1,104,High,Normal,31.55,93,0,Positive,30-39
+Uzbekistan,44,Male,195.3,71.56,Healthy,1,178,0,98,Normal,Borderline high,18.76,79,0,Positive,40-49
+India,49,Female,163.33,54.38,Healthy,0,90,0,106,High,Borderline high,20.38,92,0,Positive,40-49
+Tajikistan,33,Female,186.24,64.14,Unhealthy,0,96,0,86,High,Normal,18.49,63,0,Negative,30-39
+India,26,Male,193.88,70.93,Unhealthy,0,146,1,108,High,Normal,18.87,70,1,Negative,20-29
+Tajikistan,36,Male,152.08,64.63,Unhealthy,0,101,0,97,High,Borderline high,27.94,64,1,Positive,30-39
+Tajikistan,63,Male,169.88,66.61,Unhealthy,0,94,0,98,Normal,High,23.08,84,0,Negative,60-69
+Brazil,39,Female,188.12,64.69,Healthy,1,139,1,72,Normal,Borderline high,18.28,96,0,Positive,30-39
+China,55,Male,172.75,52.07,Healthy,1,131,0,79,Normal,High,17.45,93,1,Positive,50-59
+Russia,28,Male,163.36,81.85,Healthy,0,101,0,83,Normal,Normal,30.67,68,0,Negative,20-29
+India,57,Male,160.99,79.86,Unhealthy,0,107,1,81,Normal,Normal,30.81,65,0,Negative,50-59
+Uzbekistan,67,Female,156.58,82.67,Unhealthy,0,155,1,99,Normal,High,33.72,77,0,Negative,60-69
+Tajikistan,76,Female,192.86,59.62,Healthy,1,163,0,101,High,Borderline high,16.03,73,1,Positive,70-79
+China,79,Male,178.77,64.78,Healthy,0,168,0,101,High,Normal,20.27,78,0,Positive,70-79
+Azerbaijan,41,Male,153.82,80.98,Unhealthy,0,106,1,101,High,High,34.23,73,1,Positive,40-49
+Indonesia,73,Female,169.13,79.98,Unhealthy,0,157,1,95,High,Borderline high,27.96,99,1,Negative,70-79
+Brazil,72,Female,168.39,75.32,Healthy,0,160,0,70,Normal,High,26.56,76,1,Positive,70-79
+Russia,72,Female,159.09,67.52,Healthy,1,151,0,71,High,Borderline high,26.68,94,0,Positive,70-79
+USA,21,Female,171.78,95.65,Healthy,0,130,0,86,Normal,Borderline high,32.42,88,0,Positive,20-29
+Brazil,43,Female,166.6,66.99,Unhealthy,0,123,1,99,High,Borderline high,24.13,76,1,Positive,40-49
+Azerbaijan,27,Female,167.09,72.78,Healthy,1,159,0,108,High,Borderline high,26.07,67,1,Negative,20-29
+Indonesia,30,Female,186.95,83.91,Unhealthy,0,134,1,76,High,High,24.01,60,1,Negative,30-39
+Azerbaijan,32,Female,161.16,77.15,Unhealthy,0,147,1,96,Normal,High,29.7,95,0,Negative,30-39
+India,36,Female,182.09,67.34,Unhealthy,1,140,1,78,High,High,20.31,66,0,Positive,30-39
+Tajikistan,27,Male,178.53,71.78,Unhealthy,1,123,0,91,Normal,High,22.52,64,1,Positive,20-29
+Russia,40,Male,178.4,89.72,Healthy,1,133,0,103,Normal,High,28.19,83,1,Positive,40-49
+Bangladesh,37,Male,183.15,63.91,Healthy,0,104,0,70,High,Borderline high,19.05,87,0,Negative,30-39
+Tajikistan,49,Female,177.42,57.11,Unhealthy,0,167,1,78,Normal,Normal,18.14,76,1,Negative,40-49
+Bangladesh,37,Male,193.96,65.66,Healthy,1,159,0,89,Normal,Normal,17.45,96,0,Negative,30-39
+Indonesia,65,Female,183.78,92.48,Unhealthy,1,139,1,88,High,High,27.38,79,0,Negative,60-69
+China,66,Female,177.35,54.45,Healthy,1,121,1,105,High,High,17.31,62,1,Negative,60-69
+USA,50,Male,191.49,99.58,Unhealthy,0,156,1,109,High,Normal,27.16,96,1,Positive,50-59
+Uzbekistan,57,Female,180.31,77.05,Healthy,0,92,1,73,High,Borderline high,23.7,85,0,Negative,50-59
+Tajikistan,51,Male,164.56,99.24,Healthy,1,175,1,78,High,High,36.65,74,0,Negative,50-59
+Russia,30,Male,160.35,96.95,Unhealthy,0,175,1,91,High,Borderline high,37.7,67,0,Negative,30-39
+Azerbaijan,64,Male,157.62,72.64,Unhealthy,1,163,0,87,Normal,Normal,29.24,72,0,Positive,60-69
+Russia,44,Female,194.97,59.92,Healthy,0,140,1,81,High,Normal,15.76,62,0,Negative,40-49
+Indonesia,52,Male,185.51,58.24,Healthy,0,156,0,108,High,High,16.93,60,1,Negative,50-59
+Bangladesh,79,Female,196.87,62,Unhealthy,0,165,1,78,Normal,Borderline high,16,68,0,Negative,70-79
+Azerbaijan,57,Male,180.16,85.51,Healthy,0,137,0,75,High,High,26.34,90,0,Positive,50-59
+Uzbekistan,60,Male,173.67,63.65,Unhealthy,1,106,0,88,Normal,Normal,21.1,85,0,Positive,60-69
+Uzbekistan,27,Male,152.99,67.07,Unhealthy,0,96,0,76,High,Borderline high,28.66,76,0,Negative,20-29
+Tajikistan,30,Female,183.58,72.44,Healthy,0,102,0,85,High,High,21.49,93,1,Negative,30-39
+Indonesia,41,Female,179.11,95.66,Unhealthy,1,155,1,74,Normal,High,29.82,68,0,Negative,40-49
+China,70,Female,199.51,59.47,Healthy,0,93,1,85,High,High,14.94,72,0,Negative,70-79
+Indonesia,43,Male,161.96,50.25,Healthy,1,99,1,70,Normal,Normal,19.16,64,1,Positive,40-49
+Bangladesh,60,Male,176.54,53,Unhealthy,1,177,1,106,High,High,17.01,72,1,Negative,60-69
+Russia,36,Female,182.55,95.24,Healthy,0,106,0,108,High,Borderline high,28.58,60,1,Positive,30-39
+Uzbekistan,31,Female,182.23,82.38,Unhealthy,0,141,0,88,Normal,High,24.81,84,1,Negative,30-39
+Russia,76,Female,178.06,63.65,Unhealthy,1,95,0,106,High,Normal,20.08,63,0,Positive,70-79
+Russia,65,Female,188.85,58.86,Unhealthy,1,172,1,86,High,High,16.5,95,1,Positive,60-69
+Russia,51,Female,160.25,64.71,Healthy,1,158,0,95,Normal,Normal,25.2,69,0,Negative,50-59
+Uzbekistan,34,Female,186.28,55.74,Unhealthy,0,163,1,91,High,Normal,16.06,87,0,Positive,30-39
+Brazil,35,Male,180.99,97.08,Healthy,1,98,0,77,Normal,Borderline high,29.64,65,1,Negative,30-39
+India,73,Female,194.8,89.21,Unhealthy,1,166,0,102,High,Borderline high,23.51,86,1,Positive,70-79
+Bangladesh,41,Male,192.36,73.12,Unhealthy,1,172,0,71,Normal,High,19.76,71,1,Positive,40-49
+Brazil,47,Male,165.76,93.25,Unhealthy,0,110,0,99,High,Normal,33.94,62,1,Negative,40-49
+Bangladesh,39,Female,163.81,62.47,Healthy,1,113,0,89,Normal,Normal,23.28,92,0,Negative,30-39
+Azerbaijan,52,Female,199.08,85.86,Healthy,0,93,1,87,Normal,Borderline high,21.66,69,0,Positive,50-59
+Indonesia,29,Male,176.36,92.81,Unhealthy,0,113,0,79,High,Borderline high,29.84,90,0,Positive,20-29
+Indonesia,59,Female,195.32,67.84,Unhealthy,1,148,1,93,High,High,17.78,74,1,Negative,50-59
+USA,51,Female,158.19,87.87,Healthy,0,92,1,73,Normal,Normal,35.11,66,0,Negative,50-59
+Indonesia,69,Male,182.14,64.75,Healthy,1,157,1,106,High,Borderline high,19.52,95,1,Negative,60-69
+Uzbekistan,79,Male,190.49,64.94,Healthy,0,129,1,73,Normal,High,17.9,73,0,Positive,70-79
+China,52,Male,197.37,55.35,Unhealthy,0,137,1,82,High,Normal,14.21,73,1,Negative,50-59
+Tajikistan,21,Female,166.87,72,Healthy,1,143,1,94,High,Normal,25.86,62,0,Negative,20-29
+USA,52,Male,186.25,86.49,Unhealthy,1,124,1,82,Normal,Borderline high,24.93,62,0,Positive,50-59
+Tajikistan,52,Female,176.94,97.01,Healthy,1,145,1,87,Normal,High,30.99,81,1,Negative,50-59
+Bangladesh,60,Male,153.03,80.19,Unhealthy,0,178,0,93,High,Borderline high,34.24,78,0,Negative,60-69
+Tajikistan,32,Male,184.5,93.16,Unhealthy,0,129,0,71,High,High,27.37,94,0,Negative,30-39
+Tajikistan,49,Male,184.5,91.12,Unhealthy,1,166,1,102,High,Normal,26.77,71,1,Negative,40-49
+USA,52,Female,196.53,58.67,Healthy,1,157,1,88,High,High,15.19,64,1,Positive,50-59
+Azerbaijan,32,Female,174.87,74.29,Healthy,0,135,1,78,High,High,24.3,69,1,Negative,30-39
+Russia,71,Male,161.51,55.85,Healthy,0,167,0,97,Normal,High,21.41,92,1,Negative,70-79
+Indonesia,45,Male,152.23,84.11,Unhealthy,0,102,0,104,High,High,36.29,72,1,Negative,40-49
+Indonesia,41,Male,170.78,97.49,Unhealthy,1,116,1,108,High,High,33.43,94,0,Negative,40-49
+Uzbekistan,58,Female,165.1,56.85,Healthy,0,95,1,79,Normal,Borderline high,20.86,91,1,Negative,50-59
+USA,21,Male,188.05,86.69,Unhealthy,1,106,0,70,Normal,High,24.51,70,0,Negative,20-29
+Uzbekistan,57,Female,167.71,81.61,Unhealthy,0,125,0,90,Normal,High,29.01,97,0,Positive,50-59
+China,58,Male,197.45,79.18,Unhealthy,0,170,1,78,High,Normal,20.31,83,1,Positive,50-59
+China,45,Male,198.12,69.51,Healthy,1,91,1,84,Normal,High,17.71,94,0,Positive,40-49
+Uzbekistan,65,Male,181.05,67.76,Unhealthy,1,166,1,104,Normal,Normal,20.67,78,0,Negative,60-69
+USA,77,Male,196.43,52.26,Healthy,1,141,1,74,Normal,Borderline high,13.54,65,1,Negative,70-79
+Uzbekistan,69,Male,188.04,60.9,Healthy,0,155,0,91,Normal,Borderline high,17.22,99,0,Negative,60-69
+Indonesia,34,Male,177.34,50.76,Healthy,0,141,0,92,High,High,16.14,94,1,Positive,30-39
+Brazil,53,Female,159.02,79.07,Healthy,0,132,1,76,High,Borderline high,31.27,63,1,Negative,50-59
+India,61,Male,172.93,55.29,Healthy,1,179,1,92,High,High,18.49,92,1,Positive,60-69
+Tajikistan,74,Female,178.04,93.65,Unhealthy,0,111,1,94,Normal,Borderline high,29.54,72,0,Negative,70-79
+India,63,Male,193.2,76.16,Healthy,1,144,0,96,Normal,High,20.4,95,0,Negative,60-69
+USA,68,Male,174.07,84.98,Healthy,1,156,1,75,Normal,High,28.05,78,0,Positive,60-69
+India,59,Female,194.88,70.54,Healthy,1,149,1,103,Normal,Normal,18.57,71,0,Positive,50-59
+China,30,Male,183.72,78.03,Unhealthy,0,147,1,78,Normal,Normal,23.12,70,1,Positive,30-39
+Bangladesh,22,Female,156.85,97.13,Unhealthy,0,101,0,102,Normal,Normal,39.48,65,0,Positive,20-29
+Tajikistan,78,Female,199.75,54.14,Unhealthy,1,177,1,75,High,Normal,13.57,71,1,Positive,70-79
+Russia,25,Male,176.36,62.7,Unhealthy,0,158,0,106,High,High,20.16,86,0,Positive,20-29
+USA,28,Female,169.59,89,Healthy,1,173,1,100,Normal,Borderline high,30.94,84,0,Negative,20-29
+Tajikistan,25,Female,182.96,54.94,Healthy,1,128,1,103,High,High,16.41,62,0,Positive,20-29
+India,28,Male,155.44,53.78,Unhealthy,0,102,1,98,Normal,Normal,22.26,62,0,Negative,20-29
+China,58,Female,181.83,68.08,Unhealthy,1,130,0,83,Normal,Normal,20.59,79,0,Negative,50-59
+Azerbaijan,50,Male,174.91,54.61,Unhealthy,1,146,1,105,High,Borderline high,17.85,87,1,Negative,50-59
+Brazil,51,Male,170.33,79.25,Unhealthy,0,142,1,105,Normal,Normal,27.32,82,0,Negative,50-59
+Russia,60,Male,197.65,61.31,Healthy,1,101,0,84,High,High,15.69,62,0,Negative,60-69
+Brazil,69,Male,176.13,94.78,Unhealthy,1,102,0,77,Normal,High,30.56,83,0,Positive,60-69
+Tajikistan,31,Female,160.96,89.18,Unhealthy,1,163,0,95,Normal,High,34.42,99,0,Positive,30-39
+China,27,Male,172.95,84.99,Healthy,1,146,1,105,Normal,High,28.41,65,0,Negative,20-29
+China,27,Male,195.97,80.85,Unhealthy,1,129,0,90,Normal,High,21.05,79,0,Negative,20-29
+India,69,Female,158.8,93.17,Unhealthy,1,169,1,97,Normal,Borderline high,36.95,70,1,Positive,60-69
+Indonesia,47,Male,160.7,61.15,Unhealthy,1,134,0,73,Normal,High,23.68,91,0,Negative,40-49
+India,39,Male,150.65,93.66,Unhealthy,0,124,0,85,High,Normal,41.27,86,1,Negative,30-39
+Indonesia,66,Female,150.71,89.47,Healthy,0,92,0,91,Normal,Normal,39.39,80,1,Negative,60-69
+Indonesia,78,Female,191.47,87.41,Healthy,1,94,1,81,Normal,Normal,23.84,72,1,Negative,70-79
+Russia,26,Female,186.61,78.06,Healthy,1,179,1,85,Normal,Normal,22.42,81,1,Positive,20-29
+India,30,Female,167.75,62.31,Healthy,0,100,1,109,High,Borderline high,22.14,94,1,Positive,30-39
+Azerbaijan,39,Female,184.92,71.18,Healthy,0,160,1,107,High,Normal,20.82,81,0,Positive,30-39
+Uzbekistan,35,Female,169.76,89.68,Healthy,0,145,1,106,High,Borderline high,31.12,87,1,Positive,30-39
+Uzbekistan,23,Female,197.64,51.59,Unhealthy,0,99,1,98,High,Normal,13.21,80,0,Positive,20-29
+India,25,Male,198.35,89.1,Unhealthy,0,123,1,87,High,Borderline high,22.65,77,1,Negative,20-29
+India,77,Female,169.64,62,Healthy,1,156,1,79,Normal,Borderline high,21.55,90,1,Positive,70-79
+Brazil,41,Female,192.71,57.22,Unhealthy,0,161,1,108,High,Borderline high,15.41,96,0,Negative,40-49
+Russia,45,Female,188.65,55.79,Healthy,0,120,0,87,High,Normal,15.67,80,1,Negative,40-49
+India,22,Male,165.5,51.36,Unhealthy,0,164,0,70,Normal,Borderline high,18.75,73,0,Negative,20-29
+Brazil,60,Male,161.6,76.18,Unhealthy,1,160,1,108,High,High,29.17,84,1,Positive,60-69
+Indonesia,79,Female,172.91,60.91,Healthy,1,155,1,90,Normal,High,20.37,86,1,Negative,70-79
+China,61,Female,189.07,99.47,Unhealthy,1,159,1,70,High,Normal,27.83,99,0,Positive,60-69
+China,33,Female,198.01,78.72,Unhealthy,1,130,1,84,Normal,High,20.08,82,0,Positive,30-39
+Indonesia,30,Male,188.18,56.89,Unhealthy,1,152,0,73,Normal,High,16.07,90,1,Negative,30-39
+USA,37,Male,192.76,84.44,Healthy,1,121,0,89,High,High,22.72,88,0,Negative,30-39
+Brazil,73,Female,180.15,94.89,Healthy,0,109,1,79,High,Normal,29.24,89,0,Negative,70-79
+Brazil,31,Male,191.77,87.26,Unhealthy,1,146,0,92,Normal,Normal,23.73,85,0,Negative,30-39
+Indonesia,42,Female,189.22,53.82,Healthy,1,139,0,103,Normal,High,15.03,79,1,Negative,40-49
+Azerbaijan,31,Male,168.85,94.79,Unhealthy,0,169,1,102,Normal,Normal,33.25,97,0,Negative,30-39
+Bangladesh,32,Male,177.6,89.7,Healthy,1,114,1,103,Normal,Borderline high,28.44,78,0,Negative,30-39
